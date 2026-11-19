@@ -17,7 +17,7 @@ Um bilionário cai em chamas diante de cem testemunhas que não lembram de nada.
 No Foundry: *Add-on Modules → Install Module* e cole o manifesto:
 
 ```
-https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera/releases/latest/download/module.json
+https://raw.githubusercontent.com/pedronaraujo/City-of-Mist---Asas-de-Cera/main/module.json
 ```
 
 Ative o módulo num mundo com o sistema City of Mist, abra o compêndio **Asas de Cera (Aventura)** e clique em **Import Adventure**.
@@ -28,6 +28,7 @@ Ative o módulo num mundo com o sistema City of Mist, abra o compêndio **Asas d
 python3 tools/tokens.py   # tokens redondos
 python3 tools/build.py    # gera src/packs a partir de src/caso.md
 node tools/pack.mjs       # compila o compêndio LevelDB em packs/
+# depois gere dist/asas-de-cera.zip com module.json, README.md, styles, assets e packs
 ```
 
 ## Créditos e aviso
