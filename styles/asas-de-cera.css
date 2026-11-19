@@ -1,0 +1,38 @@
+/* Asas de Cera — estilos do Guia do MC (cores explícitas: legível nos temas claro e escuro) */
+.asas-de-cera { --adc-mag:#a8195f; --adc-teal:#0e6f78; --adc-gold:#c27f12; --adc-night:#16112a; --adc-paper:#efe8dc; --adc-ink:#1d1724;
+  background: var(--adc-paper); color: var(--adc-ink); padding: 14px 18px; border-radius: 4px; font-size: 15px; line-height: 1.45; }
+.asas-de-cera p, .asas-de-cera li, .asas-de-cera td { color: var(--adc-ink); }
+.asas-de-cera h3 { color: var(--adc-teal); border-bottom: 1px solid #b9aec6; text-transform: uppercase; letter-spacing: 1px; clear: both; }
+.asas-de-cera h4 { color: var(--adc-night); border-left: 5px solid var(--adc-gold); padding-left: 8px; border-bottom: none; clear: both; }
+.asas-de-cera strong { color: inherit; }
+.asas-de-cera blockquote { margin: 10px 0; padding: 8px 12px; border-radius: 3px; border: none; }
+.asas-de-cera blockquote p { margin: 0; }
+.asas-de-cera blockquote.adc-aloud { background: var(--adc-night); border-left: 4px solid #3fd0dc; }
+.asas-de-cera blockquote.adc-aloud p { color: #f1ebf7; font-style: italic; }
+.asas-de-cera blockquote.adc-aloud strong { color: #3fd0dc; font-style: normal; text-transform: uppercase; letter-spacing: 1px; font-size: 12px; display: block; }
+.asas-de-cera blockquote.adc-rule { background: #e3ecec; border-left: 4px solid var(--adc-teal); }
+.asas-de-cera blockquote.adc-rule strong { color: var(--adc-teal); }
+.asas-de-cera blockquote.adc-tip { background: #f3e3ea; border-left: 4px solid var(--adc-mag); }
+.asas-de-cera blockquote.adc-tip strong { color: var(--adc-mag); }
+.asas-de-cera blockquote.adc-summary { background: transparent; border: 1.5px dashed var(--adc-gold); }
+.asas-de-cera blockquote.adc-summary strong { color: var(--adc-gold); }
+.asas-de-cera blockquote.adc-box { background: #e8e1d4; }
+.asas-de-cera .adc-falas { margin: 8px 0 14px; padding: 6px 12px; border-top: 1px solid #b9aec6; border-bottom: 1px solid #b9aec6; }
+.asas-de-cera .adc-falas-h { color: var(--adc-mag); font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 12px; margin: 0 0 4px; }
+.asas-de-cera .adc-falas ul { list-style: none; padding-left: 0; margin: 0; }
+.asas-de-cera .adc-falas li { font-style: italic; padding-left: 18px; position: relative; }
+.asas-de-cera .adc-falas li::before { content: "“"; position: absolute; left: 0; top: -4px; font-size: 24px; color: var(--adc-gold); font-style: normal; }
+.asas-de-cera .adc-falas li strong { font-style: normal; color: var(--adc-night); }
+.asas-de-cera table { border-collapse: collapse; width: 100%; background: transparent; border: none; }
+.asas-de-cera th { background: var(--adc-night); color: #ffffff; text-align: left; padding: 5px 6px; text-transform: uppercase; font-size: 12px; }
+.asas-de-cera td { border-bottom: 1px solid #cfc5b6; padding: 5px 6px; vertical-align: top; }
+.asas-de-cera tr:nth-child(even) td { background: rgba(255,255,255,.4); }
+.asas-de-cera figure { margin: 10px 0; }
+.asas-de-cera figure img { width: 100%; border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+.asas-de-cera .adc-hero img { border: none; }
+.asas-de-cera .adc-map img { border-color: var(--adc-night); }
+.asas-de-cera .adc-portrait { float: right; width: 34%; margin: 0 0 10px 14px; }
+.asas-de-cera .adc-portrait img { width: 100%; border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.35); transform: rotate(1.2deg); }
+.asas-de-cera .adc-cap { font-size: 13px; text-align: right; margin-top: -4px; }
+.asas-de-cera a.content-link { background: var(--adc-night); color: #ffffff; border-color: var(--adc-night); }
+.asas-de-cera a.content-link i { color: #3fd0dc; }

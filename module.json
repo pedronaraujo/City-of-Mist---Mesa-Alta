@@ -1,0 +1,29 @@
+{
+  "id": "asas-de-cera",
+  "title": "Asas de Cera — um caso de City of Mist",
+  "description": "Caso em três sessões para City of Mist: Guia do MC completo em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados.",
+  "version": "1.0.0",
+  "authors": [{ "name": "Pedro Tostes", "url": "https://github.com/pedronaraujo" }],
+  "compatibility": { "minimum": "13", "verified": "14" },
+  "relationships": {
+    "systems": [{ "id": "city-of-mist", "type": "system", "compatibility": { "minimum": "4.0.0" } }]
+  },
+  "styles": ["styles/asas-de-cera.css"],
+  "packs": [
+    {
+      "name": "asas-de-cera",
+      "label": "Asas de Cera (Aventura)",
+      "path": "packs/asas-de-cera",
+      "type": "Adventure",
+      "system": "city-of-mist",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" },
+      "flags": {}
+    }
+  ],
+  "packFolders": [{ "name": "Asas de Cera", "color": "#a8195f", "packs": ["asas-de-cera"], "folders": [] }],
+  "languages": [],
+  "url": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera",
+  "manifest": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera/releases/latest/download/module.json",
+  "download": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera/releases/download/v1.0.0/asas-de-cera.zip",
+  "readme": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera/blob/main/README.md"
+}
