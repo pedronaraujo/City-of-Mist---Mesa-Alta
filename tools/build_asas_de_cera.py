@@ -260,27 +260,27 @@ def T(skey, i, akey, x, y, s, grid, hidden=False):
 
 
 SCENES = []
-AMB = [("capa", "Asas de Cera — Capa", "capa-do-caso", 1792, 2688, ""),
-       ("crime", "Avenida Zênite — Cena do crime", "cena-do-crime-na-avenida-zenite", 2944, 1648, "rain"),
-       ("necro", "Necrotério", "necroterio", 2944, 1648, ""),
-       ("terraco-amb", "Hotel Zênite — Terraço", "terraco-do-hotel-zenite", 2944, 1648, ""),
-       ("hangar", "Asas Ltda. — Hangar", "hangar-da-asas-ltda", 2944, 1648, ""),
-       ("cobertura", "Cobertura de Ian", "cobertura-de-ian", 2944, 1648, ""),
-       ("galerias", "Galerias Creta", "galerias-creta", 2944, 1648, ""),
-       ("torre", "Torre da Heliópolis", "torre-da-heliopolis", 1792, 2688, "rain"),
-       ("enkidu", "A queda de Enkidu", "a-queda-de-enkidu", 2960, 1648, "rain"),
-       ("museu", "Museu de Antiguidades — Sala egípcia", "sala-egipcia-do-museu", 2944, 1648, ""),
-       ("duat", "O Duat", "o-duat", 2944, 1648, ""),
-       ("alvorada", "Assembleia da Alvorada", "assembleia-da-alvorada", 2944, 1648, ""),
-       ("epilogo", "Epílogo", "epilogo", 2944, 1648, ""),
-       ("contracapa", "Asas de Cera — Contracapa", "contracapa", 1792, 2688, "")]
+AMB = [("capa", "00 Capa", "capa-do-caso", 1792, 2688, ""),
+       ("crime", "01 Avenida Zênite — Cena do crime", "cena-do-crime-na-avenida-zenite", 2944, 1648, "rain"),
+       ("necro", "02 Necrotério", "necroterio", 2944, 1648, ""),
+       ("terraco-amb", "03 Hotel Zênite — Terraço", "terraco-do-hotel-zenite", 2944, 1648, ""),
+       ("hangar", "04 Asas Ltda. — Hangar", "hangar-da-asas-ltda", 2944, 1648, ""),
+       ("cobertura", "05 Cobertura de Ian", "cobertura-de-ian", 2944, 1648, ""),
+       ("galerias", "07 Galerias Creta", "galerias-creta", 2944, 1648, ""),
+       ("torre", "08 Torre da Heliópolis", "torre-da-heliopolis", 1792, 2688, "rain"),
+       ("enkidu", "09 A queda de Enkidu", "a-queda-de-enkidu", 2960, 1648, "rain"),
+       ("museu", "10 Museu de Antiguidades — Sala egípcia", "sala-egipcia-do-museu", 2944, 1648, ""),
+       ("duat", "11 O Duat", "o-duat", 2944, 1648, ""),
+       ("alvorada", "12 Assembleia da Alvorada", "assembleia-da-alvorada", 2944, 1648, ""),
+       ("epilogo", "13 Epílogo", "epilogo", 2944, 1648, ""),
+       ("contracapa", "Fim — Contracapa", "contracapa", 1792, 2688, "")]
 for i, (k, n, img, w, h, wx) in enumerate(AMB):
     SCENES.append(scene(k, n, "amb", f"{MOD}/assets/asas-de-cera/cenas/{img}.webp", w, h, weather=wx, sort=i * 10))
 
 # Terraço do Hotel Zênite (4096x2737) — exibição 1200 -> fator 3.4133
 s = 4096 / 1200
 k = "map-terraco"
-SCENES.append(scene(k, "Terraço do Hotel Zênite", "map", f"{MOD}/assets/asas-de-cera/mapas/terraco-do-hotel-zenite.webp", 4096, 2737,
+SCENES.append(scene(k, "03 Terraço do Hotel Zênite", "map", f"{MOD}/assets/asas-de-cera/mapas/terraco-do-hotel-zenite.webp", 4096, 2737,
     grid=150, battle=True, darkness=0.55, sort=10,
     walls=walls(k, s, [
         ("glass", [(40, 40), (970, 40)]), ("glass", [(40, 40), (40, 745)]), ("glass", [(40, 745), (1165, 745)]),
@@ -298,7 +298,7 @@ SCENES.append(scene(k, "Terraço do Hotel Zênite", "map", f"{MOD}/assets/asas-d
 # Clube Meia-Noite (2560x1440)
 s = 2560 / 1200
 k = "map-clube"
-SCENES.append(scene(k, "Clube Meia-Noite", "map", f"{MOD}/assets/asas-de-cera/mapas/clube-meia-noite.webp", 2560, 1440,
+SCENES.append(scene(k, "06 Clube Meia-Noite", "map", f"{MOD}/assets/asas-de-cera/mapas/clube-meia-noite.webp", 2560, 1440,
     grid=110, battle=True, darkness=0.7, sort=20,
     walls=walls(k, s, [
         ("wall", [(15, 15), (855, 15)]), ("wall", [(15, 15), (15, 590), (575, 590)]),
@@ -319,7 +319,7 @@ SCENES.append(scene(k, "Clube Meia-Noite", "map", f"{MOD}/assets/asas-de-cera/ma
 
 # Oficina escondida de Dédalo (2560x1440)
 k = "map-oficina"
-SCENES.append(scene(k, "Oficina escondida de Dédalo", "map", f"{MOD}/assets/asas-de-cera/mapas/oficina-escondida-de-dedalo.webp", 2560, 1440,
+SCENES.append(scene(k, "07 Oficina escondida de Dédalo", "map", f"{MOD}/assets/asas-de-cera/mapas/oficina-escondida-de-dedalo.webp", 2560, 1440,
     grid=100, battle=True, darkness=0.65, sort=30,
     walls=walls(k, s, [
         ("wall", [(95, 70), (185, 70)]), ("glass", [(185, 70), (545, 70)]), ("wall", [(545, 70), (555, 70)]),
@@ -340,7 +340,7 @@ SCENES.append(scene(k, "Oficina escondida de Dédalo", "map", f"{MOD}/assets/asa
 
 # A Barca no Duat (2560x1440)
 k = "map-barca"
-SCENES.append(scene(k, "A Barca no Duat", "map", f"{MOD}/assets/asas-de-cera/mapas/a-barca-no-duat.webp", 2560, 1440,
+SCENES.append(scene(k, "11 A Barca no Duat", "map", f"{MOD}/assets/asas-de-cera/mapas/a-barca-no-duat.webp", 2560, 1440,
     grid=100, battle=True, darkness=0.75, sort=40,
     walls=walls(k, s, [
         ("wall", [(115, 195), (380, 195), (380, 20), (810, 20), (810, 195), (1085, 195)]),

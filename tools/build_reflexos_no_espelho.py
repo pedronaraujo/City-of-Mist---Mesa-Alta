@@ -266,29 +266,29 @@ def T(skey, i, akey, x, y, s, grid, hidden=False):
 
 
 SCENES = []
-AMB = [("capa", "Reflexos no Espelho — Capa", "capa-do-caso", 1792, 2688, ""),
-       ("abertura", "Reflexos no Espelho — Abertura", "abertura-do-caso", 1792, 2688, "rain"),
-       ("consultorio", "Consultório de Tirésias", "o-consultorio-de-tiresias", 2944, 1648, ""),
-       ("varanda", "Suíte 3101 — A varanda", "a-varanda-da-suite-3101", 2560, 1440, ""),
-       ("piscina", "Hotel Aqua Miragem — A piscina de borda infinita", "a-piscina-de-borda-infinita", 2944, 1648, ""),
-       ("vigilia", "A vigília", "a-vigilia", 4096, 2304, ""),
-       ("cerco", "O cerco — Prédio do Amir", "o-cerco", 2944, 1648, ""),
-       ("live", "A live", "a-live", 2560, 1440, ""),
-       ("santuario", "O santuário de Elisa", "o-santuario-de-elisa", 2944, 1648, ""),
-       ("agencia", "A agência", "a-agencia", 2944, 1648, ""),
-       ("estudio", "O estúdio", "o-estudio", 2944, 1648, ""),
-       ("galeria", "Galeria Quinto Sol", "galeria-quinto-sol", 2944, 1648, ""),
-       ("montagem", "A montagem — Rooftop do Aqua Miragem", "a-montagem", 2944, 1648, ""),
-       ("lancamento", "O lançamento da Espelho", "o-lancamento", 2944, 1648, ""),
-       ("epilogo", "Epílogo", "epilogo", 2560, 1440, ""),
-       ("contracapa", "Reflexos no Espelho — Contracapa", "contracapa", 1792, 2688, "")]
+AMB = [("capa", "0.1 Capa", "capa-do-caso", 1792, 2688, ""),
+       ("abertura", "0.2 Abertura", "abertura-do-caso", 1792, 2688, "rain"),
+       ("consultorio", "1.1 Consultório de Tirésias", "o-consultorio-de-tiresias", 2944, 1648, ""),
+       ("varanda", "1.2 Suíte 3101 — A varanda", "a-varanda-da-suite-3101", 2560, 1440, ""),
+       ("piscina", "1.2 Hotel Aqua Miragem — A piscina de borda infinita", "a-piscina-de-borda-infinita", 2944, 1648, ""),
+       ("vigilia", "1.3 A vigília", "a-vigilia", 4096, 2304, ""),
+       ("cerco", "1.4 O cerco — Prédio do Amir", "o-cerco", 2944, 1648, ""),
+       ("live", "1.5 A live", "a-live", 2560, 1440, ""),
+       ("santuario", "2.1 O santuário de Elisa", "o-santuario-de-elisa", 2944, 1648, ""),
+       ("agencia", "2.2 A agência", "a-agencia", 2944, 1648, ""),
+       ("estudio", "2.5 O estúdio", "o-estudio", 2944, 1648, ""),
+       ("galeria", "3.1 Galeria Quinto Sol", "galeria-quinto-sol", 2944, 1648, ""),
+       ("montagem", "3.4 A montagem — Rooftop do Aqua Miragem", "a-montagem", 2944, 1648, ""),
+       ("lancamento", "3.5 O lançamento da Espelho", "o-lancamento", 2944, 1648, ""),
+       ("epilogo", "3.6 Epílogo", "epilogo", 2560, 1440, ""),
+       ("contracapa", "Fim — Contracapa", "contracapa", 1792, 2688, "")]
 for i, (k, n, img, w, h, wx) in enumerate(AMB):
     SCENES.append(scene(k, n, "amb", f"{AS}/cenas/{img}.webp", w, h, weather=wx, sort=i * 10))
 
 # --- Suíte 3101 e varanda (2688x1792; exibição 1200 -> fator 2.24)
 s = 2688 / 1200
 k = "map-suite"
-SCENES.append(scene(k, "Suíte 3101 e varanda", "map", f"{AS}/mapas/suite-3101-e-varanda.webp", 2688, 1792,
+SCENES.append(scene(k, "1.2 Suíte 3101 e varanda", "map", f"{AS}/mapas/suite-3101-e-varanda.webp", 2688, 1792,
     grid=100, battle=True, darkness=0.5, sort=10,
     walls=walls(k, s, [
         ("wall", [(45, 470), (45, 68), (440, 68)]), ("door", [(440, 68), (550, 68)]),
@@ -309,7 +309,7 @@ SCENES.append(scene(k, "Suíte 3101 e varanda", "map", f"{AS}/mapas/suite-3101-e
 
 # --- A rua do Amir (2688x1792)
 k = "map-rua"
-SCENES.append(scene(k, "A rua do Amir", "map", f"{AS}/mapas/a-rua-do-amir.webp", 2688, 1792,
+SCENES.append(scene(k, "1.4 A rua do Amir", "map", f"{AS}/mapas/a-rua-do-amir.webp", 2688, 1792,
     grid=90, battle=True, darkness=0.55, sort=20,
     walls=walls(k, s, [
         ("wall", [(100, 300), (430, 300), (430, 85), (745, 85), (745, 300), (965, 300)]),
@@ -328,7 +328,7 @@ SCENES.append(scene(k, "A rua do Amir", "map", f"{AS}/mapas/a-rua-do-amir.webp",
 # --- O escritório da agência (4096x2731; fator 3.4133)
 s = 4096 / 1200
 k = "map-agencia"
-SCENES.append(scene(k, "O escritório da agência", "map", f"{AS}/mapas/o-escritorio-da-agencia.webp", 4096, 2731,
+SCENES.append(scene(k, "2.2 O escritório da agência", "map", f"{AS}/mapas/o-escritorio-da-agencia.webp", 4096, 2731,
     grid=110, battle=True, darkness=0.65, sort=30,
     walls=walls(k, s, [
         ("wall", [(40, 95), (1160, 95), (1160, 710), (40, 710), (40, 95)]),
@@ -359,7 +359,7 @@ SCENES.append(scene(k, "O escritório da agência", "map", f"{AS}/mapas/o-escrit
 # --- O estúdio (2688x1792; fator 2.24)
 s = 2688 / 1200
 k = "map-estudio"
-SCENES.append(scene(k, "Estúdio de gravação", "map", f"{AS}/mapas/o-estudio.webp", 2688, 1792,
+SCENES.append(scene(k, "2.5 Estúdio de gravação", "map", f"{AS}/mapas/o-estudio.webp", 2688, 1792,
     grid=100, battle=True, darkness=0.55, sort=40,
     walls=walls(k, s, [
         ("wall", [(1005, 95), (45, 95), (45, 660), (570, 660)]), ("door", [(570, 660), (630, 660)]),
@@ -389,7 +389,7 @@ ROOF_LIGHTS = [(620, 385, 4, 2, "#ffffff", 0.2, None), (500, 230, 5, 1, "#b57bff
                (785, 380, 2, 0, "#ffcc66", 0.25, "torch"), (437, 440, 2, 0, "#ffcc66", 0.25, "torch"), (822, 440, 2, 0, "#ffcc66", 0.25, "torch"),
                (313, 505, 2, 1, "#ffb347", 0.25, None), (968, 500, 2, 1, "#ffb347", 0.25, None)]
 k = "map-lancamento"
-SCENES.append(scene(k, "Rooftop do Aqua Miragem — lançamento", "map", f"{AS}/mapas/rooftop-do-aqua-miragem.webp", 3226, 2151,
+SCENES.append(scene(k, "3.5 Rooftop do Aqua Miragem — lançamento", "map", f"{AS}/mapas/rooftop-do-aqua-miragem.webp", 3226, 2151,
     grid=100, battle=True, darkness=0.45, sort=60, walls=walls(k, s, ROOF_WALLS),
     lights=[L(k, i, x, y, s, d, b, c, a, an) for i, (x, y, d, b, c, a, an) in enumerate(ROOF_LIGHTS)],
     tokens=[T(k, i, a_, x, y, s, 100, h) for i, (a_, x, y, h) in enumerate(
@@ -398,7 +398,7 @@ SCENES.append(scene(k, "Rooftop do Aqua Miragem — lançamento", "map", f"{AS}/
 
 # Rooftop durante a montagem (mapa próprio, 3226x2151)
 k = "map-montagem"
-SCENES.append(scene(k, "Rooftop do Aqua Miragem — montagem", "map", f"{AS}/mapas/rooftop-do-aqua-miragem-montagem.webp", 3226, 2151,
+SCENES.append(scene(k, "3.4 Rooftop do Aqua Miragem — montagem", "map", f"{AS}/mapas/rooftop-do-aqua-miragem-montagem.webp", 3226, 2151,
     grid=100, battle=True, darkness=0.7, sort=50,
     walls=walls(k, s, [
         ("rail", [(75, 170), (75, 140), (1155, 140), (1155, 590), (1090, 688), (75, 688), (75, 590)]),

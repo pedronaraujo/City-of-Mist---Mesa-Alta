@@ -254,10 +254,10 @@ def T(skey, i, akey, x, y, s, grid, hidden=False):
 
 
 SCENES = []
-AMB = [("capa", "O Som da Chuva — Capa", "capa-do-caso", 1792, 2688, "rain"),
-       ("abertura", "O Som da Chuva — Abertura", "abertura-do-caso", 1792, 2688, "rain"),
-       ("cortinas", "A cidade sob a chuva", "por-tras-das-cortinas", 2688, 1792, "rain"),
-       ("delegacia", "Delegacia na chuva", "delegacia-na-chuva", 2688, 1792, "rain"),
+AMB = [("capa", "0.1 Capa", "capa-do-caso", 1792, 2688, "rain"),
+       ("abertura", "0.2 Abertura", "abertura-do-caso", 1792, 2688, "rain"),
+       ("cortinas", "0.3 A cidade sob a chuva", "por-tras-das-cortinas", 2688, 1792, "rain"),
+       ("delegacia", "0.4 Delegacia na chuva", "delegacia-na-chuva", 2688, 1792, "rain"),
        ("apartamento", "1.1 Apartamento do Elias", "apartamento-do-elias", 2912, 1632, "rain"),
        ("redacao", "1.2 Redação do jornal", "redacao-do-jornal", 2912, 1632, "rain"),
        ("gabinete", "1.3 Gabinete da vereadora", "gabinete-da-vereadora", 2912, 1632, "rain"),
@@ -277,7 +277,7 @@ AMB = [("capa", "O Som da Chuva — Capa", "capa-do-caso", 1792, 2688, "rain"),
        ("fechadas", "4.1 Águas de Jade fechadas", "aguas-de-jade-fechadas", 2912, 1632, ""),
        ("portas", "4.2 As portas do Ararate", "as-portas-do-ararate", 1456, 816, "rainStorm"),
        ("epilogo", "4.3 Primeira manhã seca", "primeira-manha-seca", 2912, 1632, ""),
-       ("contracapa", "O Som da Chuva — Contracapa", "contracapa", 1792, 2688, "rain")]
+       ("contracapa", "Fim — Contracapa", "contracapa", 1792, 2688, "rain")]
 for i, (k, n, img, w, h, wx) in enumerate(AMB):
     SCENES.append(scene(k, n, "amb", f"{AS}/cenas/{img}.webp", w, h, weather=wx, sort=i * 10))
 
@@ -286,7 +286,7 @@ WARM = "#ffcc66"; AMBER = "#ffb347"; WHITE = "#ffffff"; TEAL = "#3fd0dc"; PINK =
 # --- 2.1 Bairro alagado (2496x1664; exibição 1200 -> 2.08)
 s = 2496 / 1200
 k = "map-bairro"
-SCENES.append(scene(k, "Bairro alagado (2.1)", "map", f"{AS}/mapas/bairro-alagado.webp", 2496, 1664,
+SCENES.append(scene(k, "2.1 Bairro alagado", "map", f"{AS}/mapas/bairro-alagado.webp", 2496, 1664,
     grid=100, battle=True, darkness=0.6, weather="rain", sort=10,
     walls=walls(k, s, [
         ("wall", [(0, 298), (150, 298)]), ("door", [(150, 298), (190, 298)]), ("wall", [(190, 298), (300, 298)]),
@@ -308,7 +308,7 @@ SCENES.append(scene(k, "Bairro alagado (2.1)", "map", f"{AS}/mapas/bairro-alagad
 # --- 3.2 A van na madrugada (3520x2352; 2.9333)
 s = 3520 / 1200
 k = "map-van"
-SCENES.append(scene(k, "A van na madrugada (3.2)", "map", f"{AS}/mapas/a-van-na-madrugada.webp", 3520, 2352,
+SCENES.append(scene(k, "3.2 A van na madrugada", "map", f"{AS}/mapas/a-van-na-madrugada.webp", 3520, 2352,
     grid=120, battle=True, darkness=0.7, weather="rainStorm", sort=20,
     walls=walls(k, s, [
         ("rail", [(150, 150), (500, 150)]), ("wall", [(500, 100), (555, 100)]), ("door", [(555, 100), (715, 100)]),
@@ -323,7 +323,7 @@ SCENES.append(scene(k, "A van na madrugada (3.2)", "map", f"{AS}/mapas/a-van-na-
 
 # --- 3.4 O subsolo (3520x2352)
 k = "map-subsolo"
-SCENES.append(scene(k, "O subsolo (3.4)", "map", f"{AS}/mapas/o-subsolo.webp", 3520, 2352,
+SCENES.append(scene(k, "3.4 O subsolo", "map", f"{AS}/mapas/o-subsolo.webp", 3520, 2352,
     grid=120, battle=True, darkness=0.6, sort=30,
     walls=walls(k, s, [
         ("wall", [(25, 40), (1165, 40), (1165, 440)]), ("wall", [(25, 40), (25, 610), (100, 610), (100, 790), (860, 790)]),
@@ -363,7 +363,7 @@ SCENES.append(scene(k, "O subsolo (3.4)", "map", f"{AS}/mapas/o-subsolo.webp", 3
 
 # --- 4.2 As portas do Ararate (3520x2352)
 k = "map-portas"
-SCENES.append(scene(k, "As portas do Ararate (4.2)", "map", f"{AS}/mapas/as-portas-do-ararate.webp", 3520, 2352,
+SCENES.append(scene(k, "4.2 As portas do Ararate", "map", f"{AS}/mapas/as-portas-do-ararate.webp", 3520, 2352,
     grid=120, battle=True, darkness=0.55, weather="rainStorm", sort=40,
     walls=walls(k, s, [
         ("rail", [(60, 375), (295, 375)]), ("door", [(295, 375), (460, 375)]), ("rail", [(460, 375), (740, 375)]),
