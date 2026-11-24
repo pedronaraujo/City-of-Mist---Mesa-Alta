@@ -1,8 +1,8 @@
 {
   "id": "mesa-alta",
   "title": "City of Mist — Mesa Alta",
-  "description": "Várias aventuras de City of Mist ao redor da lore da Mesa Alta, o clube secreto de deuses que manda na Cidade. Cada caso vem num compêndio próprio e é importado separadamente, com Guia do MC em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados. Inclui: Asas de Cera e Reflexos no Espelho.",
-  "version": "2.0.3",
+  "description": "Várias aventuras de City of Mist ao redor da lore da Mesa Alta, o clube secreto de deuses que manda na Cidade. Cada caso vem num compêndio próprio e é importado separadamente, com Guia do MC em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados. Inclui: Asas de Cera, Reflexos no Espelho e O Som da Chuva.",
+  "version": "2.1.0",
   "authors": [
     {
       "name": "Pedro Tostes",
@@ -53,6 +53,19 @@
       },
       "flags": {},
       "banner": "modules/mesa-alta/assets/reflexos-no-espelho/banner.webp"
+    },
+    {
+      "name": "o-som-da-chuva",
+      "label": "O Som da Chuva (Aventura)",
+      "path": "packs/o-som-da-chuva",
+      "type": "Adventure",
+      "system": "city-of-mist",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "banner": "modules/mesa-alta/assets/o-som-da-chuva/banner.webp"
     }
   ],
   "packFolders": [
@@ -61,7 +74,8 @@
       "color": "#a8195f",
       "packs": [
         "asas-de-cera",
-        "reflexos-no-espelho"
+        "reflexos-no-espelho",
+        "o-som-da-chuva"
       ],
       "folders": []
     }

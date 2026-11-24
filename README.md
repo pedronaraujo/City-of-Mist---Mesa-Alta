@@ -21,6 +21,14 @@ Nico Valença tinha dois milhões de seguidores e nenhum espelho em casa. Três 
 - 7 Perigos com espectros, travas e movimentos, 7 NPCs e tokens já posicionados (adversários ocultos).
 - Apêndice no Guia do MC para ligar o caso ao Asas de Cera numa campanha.
 
+### O Som da Chuva
+
+Chove há 35 dias. O colunista que ouvia a cidade inteira morreu afogado na própria banheira, e a polícia arquivou como acidente. No alto do morro, um professor gentil abre as portas de um conjunto habitacional para quem precisa de abrigo. Faltam cinco dias para a arca se fechar.
+
+- Guia do MC em journal (13 páginas, com o iceberg do caso), 24 cenas de ambientação com chuva e 4 battlemaps com paredes, portas e luzes.
+- 7 Perigos com espectros, travas e movimentos, 7 NPCs e tokens já posicionados (adversários ocultos).
+- Adendo para PJs Portais de deuses da chuva e apêndice para ligar o caso à Mesa Alta numa campanha.
+
 ## Instalação
 
 No Foundry: *Add-on Modules → Install Module* e cole o manifesto:
@@ -41,6 +49,9 @@ python3 tools/prep_reflexos.py "<pasta Imagens>"  # artes de Reflexos no Espelho
 python3 tools/tokens_reflexos.py                  # tokens redondos (Reflexos no Espelho)
 python3 tools/build_asas_de_cera.py               # src/packs/asas-de-cera a partir de src/asas-de-cera/caso.md
 python3 tools/build_reflexos_no_espelho.py        # src/packs/reflexos-no-espelho a partir de src/reflexos-no-espelho/caso.md
+python3 tools/prep_som_da_chuva.py "<pasta Imagens>"  # artes de O Som da Chuva -> assets/
+python3 tools/tokens_som_da_chuva.py              # tokens redondos (O Som da Chuva)
+python3 tools/build_o_som_da_chuva.py             # src/packs/o-som-da-chuva a partir de src/o-som-da-chuva/caso.md
 python3 tools/preview.py reflexos-no-espelho      # confere paredes, luzes e tokens dos battlemaps
 node tools/pack.mjs                               # compila os compêndios LevelDB em packs/
 # depois gere dist/mesa-alta.zip com module.json, README.md, styles, assets e packs
