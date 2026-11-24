@@ -11,7 +11,7 @@
    "name": "Ray Sólaris — Rá",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/ray-solaris.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -519,7 +519,7 @@
    "name": "Leona Sekh — Sekhmet",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/leona-sekh.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -956,7 +956,7 @@
    "name": "Escaravelhos — Segurança da Heliópolis",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/escaravelhos.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -1241,7 +1241,7 @@
    "name": "Tiras do Capitão Teles",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/tiras.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -1455,7 +1455,7 @@
    "name": "Capitão Ambrósio Teles",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/capitao-teles.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -1669,7 +1669,7 @@
    "name": "Ápia Nox — Apep",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/apia-nox.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2068,7 +2068,7 @@
    "name": "Brutamontes da Cobra-Noite",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/brutamontes.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2282,7 +2282,7 @@
    "name": "O Labirinto de Dédalo",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/labirinto.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2539,7 +2539,7 @@
    "name": "Heliópolis Energia",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/heliopolis.webp",
-   "folder": "O9GP7ScIr8wFir3K",
+   "folder": "LD6w5FOJw1F0OGea",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2758,7 +2758,7 @@
    "name": "Detetive Enkidu",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/enkidu.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2829,7 +2829,7 @@
    "name": "Dimitri Daidalos — Dédalo",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/dimitri-daidalos.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2900,7 +2900,7 @@
    "name": "Ian Caruso — Ícaro",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/ian-caruso.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2971,7 +2971,7 @@
    "name": "Seth Desmond — Set",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/seth-desmond.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3042,7 +3042,7 @@
    "name": "Lucas Lokken — Loki",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/lucas-lokken.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3113,7 +3113,7 @@
    "name": "Isadora Iset — Ísis",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/isadora-iset.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3184,7 +3184,7 @@
    "name": "Hugo Corvino — o emissário",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/retratos/hugo-corvino-o-emissario.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3255,7 +3255,7 @@
    "name": "Dra. Luísa Prado",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/luisa.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3326,7 +3326,7 @@
    "name": "Nico, o olheiro",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/nico.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3397,7 +3397,7 @@
    "name": "Valentina Rocha",
    "type": "threat",
    "img": "modules/mesa-alta/assets/asas-de-cera/tokens/valentina.webp",
-   "folder": "LSeMyUjjN1kowauw",
+   "folder": "vAajXJGWVAUJCGvk",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3470,7 +3470,7 @@
   {
    "_id": "9gKcRQYFmctpJDYw",
    "name": "Asas de Cera — Guia do MC",
-   "folder": "D1DEUM7FgPrqC7YM",
+   "folder": "V8JE9N9uKNDTZ9Jq",
    "sort": 0,
    "categories": [],
    "pages": [
@@ -3902,7 +3902,7 @@
   {
    "_id": "Woq9kN40rYIQealt",
    "name": "Asas de Cera — Capa",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 0,
    "navigation": false,
    "navOrder": 0,
@@ -4005,7 +4005,7 @@
   {
    "_id": "DhHAK2u9jjONzhJp",
    "name": "Avenida Zênite — Cena do crime",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 10,
    "navigation": false,
    "navOrder": 10,
@@ -4108,7 +4108,7 @@
   {
    "_id": "ysC53EAOQbM0JRt1",
    "name": "Necrotério",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 20,
    "navigation": false,
    "navOrder": 20,
@@ -4211,7 +4211,7 @@
   {
    "_id": "fV0UQe9KRXWuN7nl",
    "name": "Hotel Zênite — Terraço",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 30,
    "navigation": false,
    "navOrder": 30,
@@ -4314,7 +4314,7 @@
   {
    "_id": "xthuwC2hE5NV2k0f",
    "name": "Asas Ltda. — Hangar",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 40,
    "navigation": false,
    "navOrder": 40,
@@ -4417,7 +4417,7 @@
   {
    "_id": "8bQjY26gG295nuAr",
    "name": "Cobertura de Ian",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 50,
    "navigation": false,
    "navOrder": 50,
@@ -4520,7 +4520,7 @@
   {
    "_id": "B2lJTpBMjqAlPaa4",
    "name": "Galerias Creta",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 60,
    "navigation": false,
    "navOrder": 60,
@@ -4623,7 +4623,7 @@
   {
    "_id": "0fSY1osEWAvkAqkl",
    "name": "Torre da Heliópolis",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 70,
    "navigation": false,
    "navOrder": 70,
@@ -4726,7 +4726,7 @@
   {
    "_id": "aVSqAwe7tfOxuMbR",
    "name": "A queda de Enkidu",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 80,
    "navigation": false,
    "navOrder": 80,
@@ -4829,7 +4829,7 @@
   {
    "_id": "79k9oAcCa5LjQrMm",
    "name": "Museu de Antiguidades — Sala egípcia",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 90,
    "navigation": false,
    "navOrder": 90,
@@ -4932,7 +4932,7 @@
   {
    "_id": "VT9TvUOJU7rFh60Q",
    "name": "O Duat",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 100,
    "navigation": false,
    "navOrder": 100,
@@ -5035,7 +5035,7 @@
   {
    "_id": "5tWQpYj1nnOrBqqK",
    "name": "Assembleia da Alvorada",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 110,
    "navigation": false,
    "navOrder": 110,
@@ -5138,7 +5138,7 @@
   {
    "_id": "Gw9Xt6dvmFX1Yatg",
    "name": "Epílogo",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 120,
    "navigation": false,
    "navOrder": 120,
@@ -5241,7 +5241,7 @@
   {
    "_id": "9Dxkldc8uxNBqQSD",
    "name": "Asas de Cera — Contracapa",
-   "folder": "y1nIyvD3zY83ipMM",
+   "folder": "Y0ICgxphcEccktXE",
    "sort": 130,
    "navigation": false,
    "navOrder": 130,
@@ -5344,7 +5344,7 @@
   {
    "_id": "odEEqV75lywGIsy0",
    "name": "Battlemap — Terraço do Hotel Zênite",
-   "folder": "i1oRkB7CaLqbX4FC",
+   "folder": "70c9gHPz288zwRbn",
    "sort": 10,
    "navigation": false,
    "navOrder": 10,
@@ -6122,7 +6122,7 @@
   {
    "_id": "Vz3VGDDPuHewmNOT",
    "name": "Battlemap — Clube Meia-Noite",
-   "folder": "i1oRkB7CaLqbX4FC",
+   "folder": "70c9gHPz288zwRbn",
    "sort": 20,
    "navigation": false,
    "navOrder": 20,
@@ -7450,7 +7450,7 @@
   {
    "_id": "Tnx1py9Lb4yDmwQz",
    "name": "Battlemap — Oficina escondida de Dédalo",
-   "folder": "i1oRkB7CaLqbX4FC",
+   "folder": "70c9gHPz288zwRbn",
    "sort": 30,
    "navigation": false,
    "navOrder": 30,
@@ -8566,7 +8566,7 @@
   {
    "_id": "map02jSOALGwPBbe",
    "name": "Battlemap — A Barca no Duat",
-   "folder": "i1oRkB7CaLqbX4FC",
+   "folder": "70c9gHPz288zwRbn",
    "sort": 40,
    "navigation": false,
    "navOrder": 40,
@@ -9881,10 +9881,52 @@
  "playlists": [],
  "folders": [
   {
-   "_id": "O9GP7ScIr8wFir3K",
-   "name": "Asas de Cera — Adversários",
+   "_id": "wkrlSFM1gBEPXdMG",
+   "name": "Asas de Cera",
    "type": "Actor",
    "folder": null,
+   "sorting": "a",
+   "sort": 0,
+   "color": "#c27f12",
+   "description": "",
+   "flags": {},
+   "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "4.5.3",
+    "coreVersion": "13.351",
+    "createdTime": 1795100000000,
+    "modifiedTime": 1795100000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+   }
+  },
+  {
+   "_id": "oxzCmMI0rlvd31yW",
+   "name": "Asas de Cera",
+   "type": "Scene",
+   "folder": null,
+   "sorting": "a",
+   "sort": 0,
+   "color": "#c27f12",
+   "description": "",
+   "flags": {},
+   "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "4.5.3",
+    "coreVersion": "13.351",
+    "createdTime": 1795100000000,
+    "modifiedTime": 1795100000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+   }
+  },
+  {
+   "_id": "LD6w5FOJw1F0OGea",
+   "name": "Adversários",
+   "type": "Actor",
+   "folder": "wkrlSFM1gBEPXdMG",
    "sorting": "a",
    "sort": 0,
    "color": "#a8195f",
@@ -9902,10 +9944,10 @@
    }
   },
   {
-   "_id": "LSeMyUjjN1kowauw",
-   "name": "Asas de Cera — NPCs",
+   "_id": "vAajXJGWVAUJCGvk",
+   "name": "NPCs",
    "type": "Actor",
-   "folder": null,
+   "folder": "wkrlSFM1gBEPXdMG",
    "sorting": "a",
    "sort": 0,
    "color": "#0e6f78",
@@ -9923,13 +9965,13 @@
    }
   },
   {
-   "_id": "y1nIyvD3zY83ipMM",
-   "name": "Asas de Cera — Ambientação",
+   "_id": "Y0ICgxphcEccktXE",
+   "name": "Ambientação",
    "type": "Scene",
-   "folder": null,
+   "folder": "oxzCmMI0rlvd31yW",
    "sorting": "a",
    "sort": 0,
-   "color": "#16112a",
+   "color": "#2b2540",
    "description": "",
    "flags": {},
    "_stats": {
@@ -9944,13 +9986,13 @@
    }
   },
   {
-   "_id": "i1oRkB7CaLqbX4FC",
-   "name": "Asas de Cera — Battlemaps",
+   "_id": "70c9gHPz288zwRbn",
+   "name": "Battlemaps",
    "type": "Scene",
-   "folder": null,
+   "folder": "oxzCmMI0rlvd31yW",
    "sorting": "a",
    "sort": 0,
-   "color": "#a8195f",
+   "color": "#3a5a9c",
    "description": "",
    "flags": {},
    "_stats": {
@@ -9965,13 +10007,13 @@
    }
   },
   {
-   "_id": "D1DEUM7FgPrqC7YM",
+   "_id": "V8JE9N9uKNDTZ9Jq",
    "name": "Asas de Cera",
    "type": "JournalEntry",
    "folder": null,
    "sorting": "a",
    "sort": 0,
-   "color": "#a8195f",
+   "color": "#c27f12",
    "description": "",
    "flags": {},
    "_stats": {

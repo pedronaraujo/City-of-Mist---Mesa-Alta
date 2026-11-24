@@ -32,17 +32,21 @@ def slug(s):
 
 
 # ------------------------------------------------------------------ pastas
-def folder(name, typ, color):
-    return {"_id": gid("folder", typ, name), "name": name, "type": typ, "folder": None, "sorting": "a",
+def folder(name, typ, color, parent=None):
+    return {"_id": gid("folder", typ, name, parent or ""), "name": name, "type": typ, "folder": parent, "sorting": "a",
             "sort": 0, "color": color, "description": "", "flags": {}, "_stats": STATS}
 
 
+# Pasta do caso (cor própria do caso) com subpastas de cor padrão, iguais em todos os casos da Mesa Alta
+CASE_COLOR = "#6a3fb5"
+SUB = {"adv": ("Adversários", "#a8195f"), "npc": ("NPCs", "#0e6f78"), "amb": ("Ambientação", "#2b2540"), "map": ("Battlemaps", "#3a5a9c")}
+ROOT_F = {"Actor": folder("Reflexos no Espelho", "Actor", CASE_COLOR), "Scene": folder("Reflexos no Espelho", "Scene", CASE_COLOR)}
 F = {
-    "adv": folder("Reflexos no Espelho — Adversários", "Actor", "#8a2c6b"),
-    "npc": folder("Reflexos no Espelho — NPCs", "Actor", "#2f6d72"),
-    "amb": folder("Reflexos no Espelho — Ambientação", "Scene", "#16131c"),
-    "map": folder("Reflexos no Espelho — Battlemaps", "Scene", "#8a2c6b"),
-    "jou": folder("Reflexos no Espelho", "JournalEntry", "#8a2c6b"),
+    "adv": folder(SUB["adv"][0], "Actor", SUB["adv"][1], ROOT_F["Actor"]["_id"]),
+    "npc": folder(SUB["npc"][0], "Actor", SUB["npc"][1], ROOT_F["Actor"]["_id"]),
+    "amb": folder(SUB["amb"][0], "Scene", SUB["amb"][1], ROOT_F["Scene"]["_id"]),
+    "map": folder(SUB["map"][0], "Scene", SUB["map"][1], ROOT_F["Scene"]["_id"]),
+    "jou": folder("Reflexos no Espelho", "JournalEntry", CASE_COLOR),
 }
 
 
@@ -526,7 +530,7 @@ adventure = {
                    "<p>Importa: o Guia do MC completo com o iceberg do caso, 16 cenas de ambientação, 6 battlemaps com paredes, portas e luzes, "
                    "7 Perigos com espectros e movimentos (com travas), 7 NPCs e tokens já posicionados (adversários ocultos).</p>",
     "actors": ACTORS, "combats": [], "items": [], "journal": [journal], "scenes": SCENES, "tables": [], "macros": [],
-    "cards": [], "playlists": [], "folders": list(F.values()), "sort": 10, "flags": {}, "_stats": STATS, "folder": None}
+    "cards": [], "playlists": [], "folders": list(ROOT_F.values()) + list(F.values()), "sort": 10, "flags": {}, "_stats": STATS, "folder": None}
 
 os.makedirs(OUT, exist_ok=True)
 for f in os.listdir(OUT):

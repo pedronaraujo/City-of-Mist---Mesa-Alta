@@ -11,7 +11,7 @@
    "name": "Teo Tezca — Tezcatlipoca",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/retratos/teo-tezca.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -519,7 +519,7 @@
    "name": "Elisa Côrtes — Eco",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/retratos/elisa-cortes.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -951,7 +951,7 @@
    "name": "Amir Neves — Ameínias",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/retratos/amir-neves.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -1312,7 +1312,7 @@
    "name": "Segurança da agência",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-agencia.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -1673,7 +1673,7 @@
    "name": "Multidão de fãs",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/multidao.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2072,7 +2072,7 @@
    "name": "Segurança da exposição (montagem)",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2433,7 +2433,7 @@
    "name": "Segurança da exposição (lançamento)",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-   "folder": "RXufQHlUgkyPk3uP",
+   "folder": "YjzLxCemfu7haR3O",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2756,7 +2756,7 @@
    "name": "Dr. Tiago Resende — Tirésias",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/retratos/dr-tiago-resende.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2827,7 +2827,7 @@
    "name": "Nico Valença — Narciso",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/retratos/nico-valenca.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2898,7 +2898,7 @@
    "name": "Clara Moura",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/retratos/clara-moura.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -2969,7 +2969,7 @@
    "name": "Rafael, gerente do Aqua Miragem",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/rafael.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3040,7 +3040,7 @@
    "name": "Dona Célia",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/celia.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3111,7 +3111,7 @@
    "name": "Júlia",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/julia.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3182,7 +3182,7 @@
    "name": "Duda Prata",
    "type": "threat",
    "img": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/duda.webp",
-   "folder": "FL65j0YH1uKTIJ3O",
+   "folder": "HFP0RftNWaFPfbXb",
    "sort": 0,
    "system": {
     "locked": false,
@@ -3255,7 +3255,7 @@
   {
    "_id": "bVDkwRZCpZrBRaW7",
    "name": "Reflexos no Espelho — Guia do MC",
-   "folder": "0P4qbP7FxOGfewM0",
+   "folder": "w9TFy4q8n0Y0eulY",
    "sort": 0,
    "categories": [],
    "pages": [
@@ -3761,7 +3761,7 @@
   {
    "_id": "BrBi6c21lebEFjGn",
    "name": "Reflexos no Espelho — Capa",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 0,
    "navigation": false,
    "navOrder": 0,
@@ -3864,7 +3864,7 @@
   {
    "_id": "SMr3l6Aoqboa14Jb",
    "name": "Reflexos no Espelho — Abertura",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 10,
    "navigation": false,
    "navOrder": 10,
@@ -3967,7 +3967,7 @@
   {
    "_id": "2jRh5HGKTXxvhgtL",
    "name": "Consultório de Tirésias",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 20,
    "navigation": false,
    "navOrder": 20,
@@ -4070,7 +4070,7 @@
   {
    "_id": "26G5SVZm5qCObkyb",
    "name": "Suíte 3101 — A varanda",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 30,
    "navigation": false,
    "navOrder": 30,
@@ -4173,7 +4173,7 @@
   {
    "_id": "ut1VPAQa9zxZwl7F",
    "name": "Hotel Aqua Miragem — A piscina de borda infinita",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 40,
    "navigation": false,
    "navOrder": 40,
@@ -4276,7 +4276,7 @@
   {
    "_id": "jNdN9ALbllEHWRuj",
    "name": "A vigília",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 50,
    "navigation": false,
    "navOrder": 50,
@@ -4379,7 +4379,7 @@
   {
    "_id": "w6eqIcxVEfxC292K",
    "name": "O cerco — Prédio do Amir",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 60,
    "navigation": false,
    "navOrder": 60,
@@ -4482,7 +4482,7 @@
   {
    "_id": "ubmYDTbZMpfscye3",
    "name": "A live",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 70,
    "navigation": false,
    "navOrder": 70,
@@ -4585,7 +4585,7 @@
   {
    "_id": "B3i2EhzfAfEssFAy",
    "name": "O santuário de Elisa",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 80,
    "navigation": false,
    "navOrder": 80,
@@ -4688,7 +4688,7 @@
   {
    "_id": "6ElFXltWMEk3UxI9",
    "name": "A agência",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 90,
    "navigation": false,
    "navOrder": 90,
@@ -4791,7 +4791,7 @@
   {
    "_id": "A2WNLrHAMyHTxil0",
    "name": "O estúdio",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 100,
    "navigation": false,
    "navOrder": 100,
@@ -4894,7 +4894,7 @@
   {
    "_id": "GawdMECNL3xOiGyX",
    "name": "Galeria Quinto Sol",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 110,
    "navigation": false,
    "navOrder": 110,
@@ -4997,7 +4997,7 @@
   {
    "_id": "vX938DTGoqRd1UUW",
    "name": "A montagem — Rooftop do Aqua Miragem",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 120,
    "navigation": false,
    "navOrder": 120,
@@ -5100,7 +5100,7 @@
   {
    "_id": "jK6nynvDTWPaxpHy",
    "name": "O lançamento da Espelho",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 130,
    "navigation": false,
    "navOrder": 130,
@@ -5203,7 +5203,7 @@
   {
    "_id": "LK7Sc6WWl4o7fT6M",
    "name": "Epílogo",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 140,
    "navigation": false,
    "navOrder": 140,
@@ -5306,7 +5306,7 @@
   {
    "_id": "2paeX2zDzNH8m5dE",
    "name": "Reflexos no Espelho — Contracapa",
-   "folder": "yvlU2EewU4BCCmES",
+   "folder": "ft96FVn7Ye52nF42",
    "sort": 150,
    "navigation": false,
    "navOrder": 150,
@@ -5409,7 +5409,7 @@
   {
    "_id": "DeAhLUWQU4DwVnGK",
    "name": "Battlemap — Suíte 3101 e varanda",
-   "folder": "ahccZNcPKJUhu4TG",
+   "folder": "tN3vByjM9SZPBWdx",
    "sort": 10,
    "navigation": false,
    "navOrder": 10,
@@ -6370,7 +6370,7 @@
   {
    "_id": "prPrsMNLwgL1ePIa",
    "name": "Battlemap — A rua do Amir",
-   "folder": "ahccZNcPKJUhu4TG",
+   "folder": "tN3vByjM9SZPBWdx",
    "sort": 20,
    "navigation": false,
    "navOrder": 20,
@@ -7339,7 +7339,7 @@
   {
    "_id": "FOc2y8JK4715u02J",
    "name": "Battlemap — O escritório da agência",
-   "folder": "ahccZNcPKJUhu4TG",
+   "folder": "tN3vByjM9SZPBWdx",
    "sort": 30,
    "navigation": false,
    "navOrder": 30,
@@ -8901,7 +8901,7 @@
   {
    "_id": "PZQq2ikzX4ePlZXI",
    "name": "Battlemap — O estúdio",
-   "folder": "ahccZNcPKJUhu4TG",
+   "folder": "tN3vByjM9SZPBWdx",
    "sort": 40,
    "navigation": false,
    "navOrder": 40,
@@ -9809,7 +9809,7 @@
   {
    "_id": "B33UdyV0dvOtgXZV",
    "name": "Battlemap — Rooftop do Aqua Miragem (montagem)",
-   "folder": "ahccZNcPKJUhu4TG",
+   "folder": "tN3vByjM9SZPBWdx",
    "sort": 50,
    "navigation": false,
    "navOrder": 50,
@@ -11059,7 +11059,7 @@
   {
    "_id": "MBjabds9WZKhRmAh",
    "name": "Battlemap — Rooftop do Aqua Miragem (lançamento)",
-   "folder": "ahccZNcPKJUhu4TG",
+   "folder": "tN3vByjM9SZPBWdx",
    "sort": 60,
    "navigation": false,
    "navOrder": 60,
@@ -12278,13 +12278,13 @@
  "playlists": [],
  "folders": [
   {
-   "_id": "RXufQHlUgkyPk3uP",
-   "name": "Reflexos no Espelho — Adversários",
+   "_id": "7TnK1Q7k5L7yFna9",
+   "name": "Reflexos no Espelho",
    "type": "Actor",
    "folder": null,
    "sorting": "a",
    "sort": 0,
-   "color": "#8a2c6b",
+   "color": "#6a3fb5",
    "description": "",
    "flags": {},
    "_stats": {
@@ -12299,13 +12299,34 @@
    }
   },
   {
-   "_id": "FL65j0YH1uKTIJ3O",
-   "name": "Reflexos no Espelho — NPCs",
+   "_id": "y58gpQ5SrahXxjkH",
+   "name": "Reflexos no Espelho",
+   "type": "Scene",
+   "folder": null,
+   "sorting": "a",
+   "sort": 0,
+   "color": "#6a3fb5",
+   "description": "",
+   "flags": {},
+   "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "4.5.3",
+    "coreVersion": "13.351",
+    "createdTime": 1795500000000,
+    "modifiedTime": 1795500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+   }
+  },
+  {
+   "_id": "YjzLxCemfu7haR3O",
+   "name": "Adversários",
    "type": "Actor",
-   "folder": null,
+   "folder": "7TnK1Q7k5L7yFna9",
    "sorting": "a",
    "sort": 0,
-   "color": "#2f6d72",
+   "color": "#a8195f",
    "description": "",
    "flags": {},
    "_stats": {
@@ -12320,13 +12341,34 @@
    }
   },
   {
-   "_id": "yvlU2EewU4BCCmES",
-   "name": "Reflexos no Espelho — Ambientação",
+   "_id": "HFP0RftNWaFPfbXb",
+   "name": "NPCs",
+   "type": "Actor",
+   "folder": "7TnK1Q7k5L7yFna9",
+   "sorting": "a",
+   "sort": 0,
+   "color": "#0e6f78",
+   "description": "",
+   "flags": {},
+   "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "4.5.3",
+    "coreVersion": "13.351",
+    "createdTime": 1795500000000,
+    "modifiedTime": 1795500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+   }
+  },
+  {
+   "_id": "ft96FVn7Ye52nF42",
+   "name": "Ambientação",
    "type": "Scene",
-   "folder": null,
+   "folder": "y58gpQ5SrahXxjkH",
    "sorting": "a",
    "sort": 0,
-   "color": "#16131c",
+   "color": "#2b2540",
    "description": "",
    "flags": {},
    "_stats": {
@@ -12341,13 +12383,13 @@
    }
   },
   {
-   "_id": "ahccZNcPKJUhu4TG",
-   "name": "Reflexos no Espelho — Battlemaps",
+   "_id": "tN3vByjM9SZPBWdx",
+   "name": "Battlemaps",
    "type": "Scene",
-   "folder": null,
+   "folder": "y58gpQ5SrahXxjkH",
    "sorting": "a",
    "sort": 0,
-   "color": "#8a2c6b",
+   "color": "#3a5a9c",
    "description": "",
    "flags": {},
    "_stats": {
@@ -12362,13 +12404,13 @@
    }
   },
   {
-   "_id": "0P4qbP7FxOGfewM0",
+   "_id": "w9TFy4q8n0Y0eulY",
    "name": "Reflexos no Espelho",
    "type": "JournalEntry",
    "folder": null,
    "sorting": "a",
    "sort": 0,
-   "color": "#8a2c6b",
+   "color": "#6a3fb5",
    "description": "",
    "flags": {},
    "_stats": {
