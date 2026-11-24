@@ -280,7 +280,7 @@ for i, (k, n, img, w, h, wx) in enumerate(AMB):
 # Terraço do Hotel Zênite (4096x2737) — exibição 1200 -> fator 3.4133
 s = 4096 / 1200
 k = "map-terraco"
-SCENES.append(scene(k, "Battlemap — Terraço do Hotel Zênite", "map", f"{MOD}/assets/asas-de-cera/mapas/terraco-do-hotel-zenite.webp", 4096, 2737,
+SCENES.append(scene(k, "Terraço do Hotel Zênite", "map", f"{MOD}/assets/asas-de-cera/mapas/terraco-do-hotel-zenite.webp", 4096, 2737,
     grid=150, battle=True, darkness=0.55, sort=10,
     walls=walls(k, s, [
         ("glass", [(40, 40), (970, 40)]), ("glass", [(40, 40), (40, 745)]), ("glass", [(40, 745), (1165, 745)]),
@@ -298,7 +298,7 @@ SCENES.append(scene(k, "Battlemap — Terraço do Hotel Zênite", "map", f"{MOD}
 # Clube Meia-Noite (2560x1440)
 s = 2560 / 1200
 k = "map-clube"
-SCENES.append(scene(k, "Battlemap — Clube Meia-Noite", "map", f"{MOD}/assets/asas-de-cera/mapas/clube-meia-noite.webp", 2560, 1440,
+SCENES.append(scene(k, "Clube Meia-Noite", "map", f"{MOD}/assets/asas-de-cera/mapas/clube-meia-noite.webp", 2560, 1440,
     grid=110, battle=True, darkness=0.7, sort=20,
     walls=walls(k, s, [
         ("wall", [(15, 15), (855, 15)]), ("wall", [(15, 15), (15, 590), (575, 590)]),
@@ -319,7 +319,7 @@ SCENES.append(scene(k, "Battlemap — Clube Meia-Noite", "map", f"{MOD}/assets/a
 
 # Oficina escondida de Dédalo (2560x1440)
 k = "map-oficina"
-SCENES.append(scene(k, "Battlemap — Oficina escondida de Dédalo", "map", f"{MOD}/assets/asas-de-cera/mapas/oficina-escondida-de-dedalo.webp", 2560, 1440,
+SCENES.append(scene(k, "Oficina escondida de Dédalo", "map", f"{MOD}/assets/asas-de-cera/mapas/oficina-escondida-de-dedalo.webp", 2560, 1440,
     grid=100, battle=True, darkness=0.65, sort=30,
     walls=walls(k, s, [
         ("wall", [(95, 70), (185, 70)]), ("glass", [(185, 70), (545, 70)]), ("wall", [(545, 70), (555, 70)]),
@@ -340,7 +340,7 @@ SCENES.append(scene(k, "Battlemap — Oficina escondida de Dédalo", "map", f"{M
 
 # A Barca no Duat (2560x1440)
 k = "map-barca"
-SCENES.append(scene(k, "Battlemap — A Barca no Duat", "map", f"{MOD}/assets/asas-de-cera/mapas/a-barca-no-duat.webp", 2560, 1440,
+SCENES.append(scene(k, "A Barca no Duat", "map", f"{MOD}/assets/asas-de-cera/mapas/a-barca-no-duat.webp", 2560, 1440,
     grid=100, battle=True, darkness=0.75, sort=40,
     walls=walls(k, s, [
         ("wall", [(115, 195), (380, 195), (380, 20), (810, 20), (810, 195), (1085, 195)]),

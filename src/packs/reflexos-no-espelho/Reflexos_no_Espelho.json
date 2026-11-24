@@ -3455,7 +3455,7 @@
      },
      "text": {
       "format": 1,
-      "content": "<div class=\"mesa-alta reflexos-no-espelho\"><figure class=\"adc-hero\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-piscina-de-borda-infinita.webp\"></figure>\n<p>A galera investiga um \"assassinato\" e descobre que não houve luta, que o vídeo foi editado e que o suspeito foi escolhido a dedo. A sessão termina com um morto fazendo live.</p>\n<h3>Camada 1 — \"Ele não caiu sozinho\"</h3>\n<blockquote class=\"adc-summary\">\n<p><strong>Resumo:</strong> cinco cenas na superfície do iceberg. As Dicas mostram que não houve empurrão, que alguém mexeu nas provas e que a voz de Nico mudou depois da morte.</p>\n</blockquote>\n<h4>1.1 O consultório — o chamado</h4><p class=\"adc-cap\">@UUID[Scene.2jRh5HGKTXxvhgtL]{Abrir a cena: Consultório de Tirésias}</p>\n<p><strong>Clima:</strong> fim de tarde, chuva fina, o tique-taque de um relógio de parede e nenhuma tela à vista. <strong>Obstáculo:</strong> nenhum. É a cena de apresentação: cada PJ chega pelo seu gancho.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O consultório cheira a papel velho e café coado. Não há um único monitor na sala, só estantes de fitas cassete com etiquetas escritas à mão e uma máquina de escrever coberta por um pano. O Dr. Tiago Resende está sentado de olhos fechados, os óculos escuros dobrados sobre o joelho. Quando vocês entram, ele sorri para um ponto ao lado de cada um. \"Obrigado por virem. Antes de tudo, preciso que alguém leia uma coisa para mim. Em voz alta.\" A recepcionista estende um celular com o perfil de @nicovalen aberto. O post mais recente foi publicado há duas horas. Nico está morto há três dias.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tirésias:</strong> \"Leia de novo. Devagar. As palavras são dele. A voz, não.\"</li>\n<li><strong>Tirésias:</strong> \"Na última sessão, ele me disse que queria parar de se olhar. Que estava cansado de ser visto.\"</li>\n<li><strong>Júlia, a recepcionista:</strong> \"O doutor não dorme desde que soube. Ele diz que ouviu o Nico mentindo pela primeira vez, depois de morto.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Nico queria largar as redes. Disse isso a Tirésias uma semana antes de morrer.</li>\n<li>Os posts novos têm as palavras de Nico, mas não o jeito dele: frases certinhas demais, sem os erros de digitação de sempre.</li>\n<li>Tirésias não acredita no assassinato. Acredita que \"algo maior\" está acontecendo.</li>\n<li><strong>Profecia 1:</strong> \"Ele não caiu sozinho. Mas ninguém o empurrou.\"</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> Hotel Aqua Miragem, a vigília, o prédio do Amir.</p>\n<h4>1.2 Hotel Aqua Miragem — a suíte e a piscina</h4>\n<p><strong>Clima:</strong> luxo silencioso, cheiro de cloro e flores frescas, a piscina de borda infinita brilhando como se não tivesse fim. <strong>Obstáculo:</strong> o gerente Rafael quer abafar tudo e trata qualquer pergunta como ameaça à reputação do hotel.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O elevador abre no 31º andar com um silêncio caro. A suíte 3101 ainda tem a fita amarela atravessada na porta, mas alguém já trocou as flores do aparador. A varanda dá direto para o vazio, e lá embaixo a piscina de borda infinita parece derramar água na Cidade inteira. O parapeito de vidro é baixo, baixo demais para quem gosta de se debruçar. Na água, por um instante, vocês têm a impressão de ver um rosto boiando de olhos abertos. Quando piscam, é só o reflexo das luzes.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Rafael, o gerente:</strong> \"Uma tragédia, claro. Mas a piscina está liberada para os hóspedes desde ontem. A vida continua.\"</li>\n<li><strong>Rafael:</strong> \"A reserva era corporativa. Não, eu não posso dizer de quem. Política do hotel.\"</li>\n<li><strong>Dona Célia, a camareira:</strong> \"O rapaz de capuz ficou lá embaixo o tempo todo. Eu passei três vezes com o carrinho. Ele nem subiu.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Nenhum sinal de luta na varanda: nada quebrado, nada fora do lugar, nenhuma marca no vidro.</li>\n<li>O parapeito é baixo. Alguém que se debruça demais cai sem precisar ser empurrado.</li>\n<li>A suíte foi paga por uma \"reserva corporativa\" que o gerente se recusa a revelar (semente da <strong>prova 4</strong>).</li>\n<li>A camareira viu Amir no lobby a noite toda, nunca no 31º andar.</li>\n<li><strong>Para Portais:</strong> a água da piscina guarda o reflexo de Nico um instante a mais do que deveria (sinal de Mythos).</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a vigília, o prédio do Amir.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-piscina-de-borda-infinita.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.ut1VPAQa9zxZwl7F]{Abrir a cena: Hotel Aqua Miragem — A piscina de borda infinita}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/suite-3101-e-varanda.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.DeAhLUWQU4DwVnGK]{Abrir a cena: Battlemap — Suíte 3101 e varanda}</p>\n\n<h4>1.3 A vigília — velas e transmissão ao vivo</h4>\n<p><strong>Clima:</strong> centenas de velas na calçada, flores, cartazes com o rosto de Nico, celulares erguidos transmitindo tudo. <strong>Obstáculo:</strong> a multidão e a imprensa. Qualquer pergunta indiscreta vira vídeo viral.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> A calçada em frente ao Aqua Miragem virou um altar. Velas, girassóis de plástico, cartazes escritos à mão: \"Justiça por Nico\", \"Assassino tem nome\". Um telão improvisado mostra o rosto dele em loop, sorrindo para uma plateia que chora. No palquinho, uma mulher de roupa escura segura o microfone como quem segura um copo d'água quente. \"Eu trabalhava com ele\", ela diz, e ninguém parece guardar o nome dela. Atrás, um homem de terno preto impecável espera sua vez de falar, com as mãos cruzadas e um pequeno disco escuro pendurado no peito.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Elisa (no microfone):</strong> \"Ele não merecia isso. Alguém tirou ele de nós. Tirou ele de nós.\"</li>\n<li><strong>Tezca (discursando):</strong> \"O Nico era uma obra inacabada. Prometo a vocês que ele vai ser lembrado como merece.\"</li>\n<li><strong>Duda Prata, a jornalista:</strong> \"Estamos ao vivo, gente! Vocês são da polícia? Da família? Do fandom? Dá um oi para o chat!\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Elisa repete as últimas palavras das próprias frases, e de quem fala com ela.</li>\n<li>Ninguém da equipe de Nico consegue dizer o nome dela sem pensar.</li>\n<li>No \"vídeo da sombra\" exibido no telão há um corte de dois segundos logo antes da queda.</li>\n<li>Tezca aparece pela primeira vez, como \"amigo e admirador\". Ele conhece Elisa pelo nome.</li>\n<li><strong>Para Portais:</strong> o disco no peito de Tezca solta uma fumaça fina que ninguém mais vê.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o prédio do Amir, a live.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-vigilia.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.jNdN9ALbllEHWRuj]{Abrir a cena: A vigília}</p>\n\n<h4>1.4 O cerco — o prédio do Amir</h4>\n<p><strong>Clima:</strong> flashes, gritos, carros buzinando, a portaria trancada, pizzas que ninguém pediu chegando a cada meia hora. <strong>Obstáculo:</strong> a Multidão de fãs (Perigo de combate). No meio da cena, as DMs antigas entre Nico e Amir vazam, e a multidão fica mais agressiva.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> A rua do Amir parece a saída de um show que deu errado. Dezenas de pessoas se amontoam na frente da portaria, celulares no alto, transmitindo. Alguém picha \"ASSASSINO\" no portão enquanto outra pessoa filma a pichação. No terceiro andar, uma persiana se mexe e para. De repente, todos os celulares vibram ao mesmo tempo. Uma conta anônima acabou de postar prints de conversas antigas entre Nico e Amir. O grito que vem da multidão não é de tristeza.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Amir (pelo interfone):</strong> \"Se vocês forem da imprensa, eu juro que… não? Então sobem. Rápido.\"</li>\n<li><strong>Amir:</strong> \"Ele me chamou para conversar. O Nico nunca chamava ninguém para conversar. Ele chamava para gravar.\"</li>\n<li><strong>Fã enfurecido:</strong> \"Ele destruiu o Nico uma vez, agora terminou o serviço! Todo mundo está vendo!\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Amir tem no celular o convite de Nico para encontrá-lo no hotel naquela noite.</li>\n<li>Ele diz que ficou no lobby e nunca subiu, o que bate com a camareira.</li>\n<li>A conta que vazou as DMs foi criada no dia da morte e só tem esse post.</li>\n<li>As DMs vazadas são antigas e foram escolhidas a dedo para fazer Amir parecer obcecado.</li>\n<li><strong>O relógio de atitude do Amir começa aqui.</strong> Protegido, interrogado ou entregue: anote como a galera o tratou.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a live.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-cerco.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.w6eqIcxVEfxC292K]{Abrir a cena: O cerco — Prédio do Amir}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/a-rua-do-amir.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.prPrsMNLwgL1ePIa]{Abrir a cena: Battlemap — A rua do Amir}</p>\n\n<h4>1.5 A live — um morto ao vivo</h4>\n<p><strong>Clima:</strong> cena digital. Todos os celulares da mesa vibram com a mesma notificação: \"@nicovalen está ao vivo\". <strong>Obstáculo:</strong> o chat corre rápido demais, e a live dura só alguns minutos.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> \"@nicovalen está ao vivo.\" A notificação acende todos os celulares ao mesmo tempo. Na tela, Nico Valença sorri, com a mesma luz de sempre no rosto. \"Oi, gente. Eu sei. Eu sei o que vocês estão pensando.\" O chat explode: corações, caveiras, \"deepfake\", \"ressuscitou\", \"isso é doentio\". Mais de um milhão de pessoas assistindo. Ele fala de saudade, de justiça, de amor. Fala bonito demais. E o corpo dele, vocês sabem, está numa gaveta do IML.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>\"Nico\" (na live):</strong> \"Eu não fui embora. Eu só mudei de lugar. Fiquem comigo.\"</li>\n<li><strong>\"Nico\":</strong> \"Quem fez isso comigo vai pagar. Vocês sabem quem foi. Vocês sabem.\"</li>\n<li><strong>Comentário no chat:</strong> \"desde quando o nico fala assim?? ele não sabia nem usar crase kkkk\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Num reflexo da janela atrás de \"Nico\" aparece um apartamento pequeno, cheio de papéis colados na parede.</li>\n<li>A escrita do chat de \"Nico\" é idêntica à dos posts novos: perfeita demais.</li>\n<li>\"Nico\" repete as últimas palavras das próprias frases, o mesmo tique de Elisa.</li>\n<li><strong>Para Portais:</strong> a imagem treme de Névoa. Por um quadro, o rosto na tela é o de outra pessoa.</li>\n<li>A live pode ser gravada e analisada depois, o que leva ao apartamento de Elisa na Sessão 2.</li>\n</ul>\n</blockquote>\n<p><strong>Gancho para a Sessão 2.</strong></p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-live.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.ubmYDTbZMpfscye3]{Abrir a cena: A live}</p>\n\n<p><strong>Opcional — IML ou contato na polícia:</strong> o laudo aponta afogamento e nenhuma marca de empurrão. A polícia quer prender Amir de qualquer jeito, por pressão da mídia.</p>\n</div>",
+      "content": "<div class=\"mesa-alta reflexos-no-espelho\"><figure class=\"adc-hero\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-piscina-de-borda-infinita.webp\"></figure>\n<p>A galera investiga um \"assassinato\" e descobre que não houve luta, que o vídeo foi editado e que o suspeito foi escolhido a dedo. A sessão termina com um morto fazendo live.</p>\n<h3>Camada 1 — \"Ele não caiu sozinho\"</h3>\n<blockquote class=\"adc-summary\">\n<p><strong>Resumo:</strong> cinco cenas na superfície do iceberg. As Dicas mostram que não houve empurrão, que alguém mexeu nas provas e que a voz de Nico mudou depois da morte.</p>\n</blockquote>\n<h4>1.1 O consultório — o chamado</h4><p class=\"adc-cap\">@UUID[Scene.2jRh5HGKTXxvhgtL]{Abrir a cena: Consultório de Tirésias}</p>\n<p><strong>Clima:</strong> fim de tarde, chuva fina, o tique-taque de um relógio de parede e nenhuma tela à vista. <strong>Obstáculo:</strong> nenhum. É a cena de apresentação: cada PJ chega pelo seu gancho.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O consultório cheira a papel velho e café coado. Não há um único monitor na sala, só estantes de fitas cassete com etiquetas escritas à mão e uma máquina de escrever coberta por um pano. O Dr. Tiago Resende está sentado de olhos fechados, os óculos escuros dobrados sobre o joelho. Quando vocês entram, ele sorri para um ponto ao lado de cada um. \"Obrigado por virem. Antes de tudo, preciso que alguém leia uma coisa para mim. Em voz alta.\" A recepcionista estende um celular com o perfil de @nicovalen aberto. O post mais recente foi publicado há duas horas. Nico está morto há três dias.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tirésias:</strong> \"Leia de novo. Devagar. As palavras são dele. A voz, não.\"</li>\n<li><strong>Tirésias:</strong> \"Na última sessão, ele me disse que queria parar de se olhar. Que estava cansado de ser visto.\"</li>\n<li><strong>Júlia, a recepcionista:</strong> \"O doutor não dorme desde que soube. Ele diz que ouviu o Nico mentindo pela primeira vez, depois de morto.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Nico queria largar as redes. Disse isso a Tirésias uma semana antes de morrer.</li>\n<li>Os posts novos têm as palavras de Nico, mas não o jeito dele: frases certinhas demais, sem os erros de digitação de sempre.</li>\n<li>Tirésias não acredita no assassinato. Acredita que \"algo maior\" está acontecendo.</li>\n<li><strong>Profecia 1:</strong> \"Ele não caiu sozinho. Mas ninguém o empurrou.\"</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> Hotel Aqua Miragem, a vigília, o prédio do Amir.</p>\n<h4>1.2 Hotel Aqua Miragem — a suíte e a piscina</h4>\n<p><strong>Clima:</strong> luxo silencioso, cheiro de cloro e flores frescas, a piscina de borda infinita brilhando como se não tivesse fim. <strong>Obstáculo:</strong> o gerente Rafael quer abafar tudo e trata qualquer pergunta como ameaça à reputação do hotel.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O elevador abre no 31º andar com um silêncio caro. A suíte 3101 ainda tem a fita amarela atravessada na porta, mas alguém já trocou as flores do aparador. A varanda dá direto para o vazio, e lá embaixo a piscina de borda infinita parece derramar água na Cidade inteira. O parapeito de vidro é baixo, baixo demais para quem gosta de se debruçar. Na água, por um instante, vocês têm a impressão de ver um rosto boiando de olhos abertos. Quando piscam, é só o reflexo das luzes.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Rafael, o gerente:</strong> \"Uma tragédia, claro. Mas a piscina está liberada para os hóspedes desde ontem. A vida continua.\"</li>\n<li><strong>Rafael:</strong> \"A reserva era corporativa. Não, eu não posso dizer de quem. Política do hotel.\"</li>\n<li><strong>Dona Célia, a camareira:</strong> \"O rapaz de capuz ficou lá embaixo o tempo todo. Eu passei três vezes com o carrinho. Ele nem subiu.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Nenhum sinal de luta na varanda: nada quebrado, nada fora do lugar, nenhuma marca no vidro.</li>\n<li>O parapeito é baixo. Alguém que se debruça demais cai sem precisar ser empurrado.</li>\n<li>A suíte foi paga por uma \"reserva corporativa\" que o gerente se recusa a revelar (semente da <strong>prova 4</strong>).</li>\n<li>A camareira viu Amir no lobby a noite toda, nunca no 31º andar.</li>\n<li><strong>Para Portais:</strong> a água da piscina guarda o reflexo de Nico um instante a mais do que deveria (sinal de Mythos).</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a vigília, o prédio do Amir.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-piscina-de-borda-infinita.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.ut1VPAQa9zxZwl7F]{Abrir a cena: Hotel Aqua Miragem — A piscina de borda infinita}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/suite-3101-e-varanda.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.DeAhLUWQU4DwVnGK]{Abrir a cena: Suíte 3101 e varanda}</p>\n\n<h4>1.3 A vigília — velas e transmissão ao vivo</h4>\n<p><strong>Clima:</strong> centenas de velas na calçada, flores, cartazes com o rosto de Nico, celulares erguidos transmitindo tudo. <strong>Obstáculo:</strong> a multidão e a imprensa. Qualquer pergunta indiscreta vira vídeo viral.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> A calçada em frente ao Aqua Miragem virou um altar. Velas, girassóis de plástico, cartazes escritos à mão: \"Justiça por Nico\", \"Assassino tem nome\". Um telão improvisado mostra o rosto dele em loop, sorrindo para uma plateia que chora. No palquinho, uma mulher de roupa escura segura o microfone como quem segura um copo d'água quente. \"Eu trabalhava com ele\", ela diz, e ninguém parece guardar o nome dela. Atrás, um homem de terno preto impecável espera sua vez de falar, com as mãos cruzadas e um pequeno disco escuro pendurado no peito.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Elisa (no microfone):</strong> \"Ele não merecia isso. Alguém tirou ele de nós. Tirou ele de nós.\"</li>\n<li><strong>Tezca (discursando):</strong> \"O Nico era uma obra inacabada. Prometo a vocês que ele vai ser lembrado como merece.\"</li>\n<li><strong>Duda Prata, a jornalista:</strong> \"Estamos ao vivo, gente! Vocês são da polícia? Da família? Do fandom? Dá um oi para o chat!\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Elisa repete as últimas palavras das próprias frases, e de quem fala com ela.</li>\n<li>Ninguém da equipe de Nico consegue dizer o nome dela sem pensar.</li>\n<li>No \"vídeo da sombra\" exibido no telão há um corte de dois segundos logo antes da queda.</li>\n<li>Tezca aparece pela primeira vez, como \"amigo e admirador\". Ele conhece Elisa pelo nome.</li>\n<li><strong>Para Portais:</strong> o disco no peito de Tezca solta uma fumaça fina que ninguém mais vê.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o prédio do Amir, a live.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-vigilia.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.jNdN9ALbllEHWRuj]{Abrir a cena: A vigília}</p>\n\n<h4>1.4 O cerco — o prédio do Amir</h4>\n<p><strong>Clima:</strong> flashes, gritos, carros buzinando, a portaria trancada, pizzas que ninguém pediu chegando a cada meia hora. <strong>Obstáculo:</strong> a Multidão de fãs (Perigo de combate). No meio da cena, as DMs antigas entre Nico e Amir vazam, e a multidão fica mais agressiva.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> A rua do Amir parece a saída de um show que deu errado. Dezenas de pessoas se amontoam na frente da portaria, celulares no alto, transmitindo. Alguém picha \"ASSASSINO\" no portão enquanto outra pessoa filma a pichação. No terceiro andar, uma persiana se mexe e para. De repente, todos os celulares vibram ao mesmo tempo. Uma conta anônima acabou de postar prints de conversas antigas entre Nico e Amir. O grito que vem da multidão não é de tristeza.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Amir (pelo interfone):</strong> \"Se vocês forem da imprensa, eu juro que… não? Então sobem. Rápido.\"</li>\n<li><strong>Amir:</strong> \"Ele me chamou para conversar. O Nico nunca chamava ninguém para conversar. Ele chamava para gravar.\"</li>\n<li><strong>Fã enfurecido:</strong> \"Ele destruiu o Nico uma vez, agora terminou o serviço! Todo mundo está vendo!\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Amir tem no celular o convite de Nico para encontrá-lo no hotel naquela noite.</li>\n<li>Ele diz que ficou no lobby e nunca subiu, o que bate com a camareira.</li>\n<li>A conta que vazou as DMs foi criada no dia da morte e só tem esse post.</li>\n<li>As DMs vazadas são antigas e foram escolhidas a dedo para fazer Amir parecer obcecado.</li>\n<li><strong>O relógio de atitude do Amir começa aqui.</strong> Protegido, interrogado ou entregue: anote como a galera o tratou.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a live.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-cerco.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.w6eqIcxVEfxC292K]{Abrir a cena: O cerco — Prédio do Amir}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/a-rua-do-amir.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.prPrsMNLwgL1ePIa]{Abrir a cena: A rua do Amir}</p>\n\n<h4>1.5 A live — um morto ao vivo</h4>\n<p><strong>Clima:</strong> cena digital. Todos os celulares da mesa vibram com a mesma notificação: \"@nicovalen está ao vivo\". <strong>Obstáculo:</strong> o chat corre rápido demais, e a live dura só alguns minutos.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> \"@nicovalen está ao vivo.\" A notificação acende todos os celulares ao mesmo tempo. Na tela, Nico Valença sorri, com a mesma luz de sempre no rosto. \"Oi, gente. Eu sei. Eu sei o que vocês estão pensando.\" O chat explode: corações, caveiras, \"deepfake\", \"ressuscitou\", \"isso é doentio\". Mais de um milhão de pessoas assistindo. Ele fala de saudade, de justiça, de amor. Fala bonito demais. E o corpo dele, vocês sabem, está numa gaveta do IML.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>\"Nico\" (na live):</strong> \"Eu não fui embora. Eu só mudei de lugar. Fiquem comigo.\"</li>\n<li><strong>\"Nico\":</strong> \"Quem fez isso comigo vai pagar. Vocês sabem quem foi. Vocês sabem.\"</li>\n<li><strong>Comentário no chat:</strong> \"desde quando o nico fala assim?? ele não sabia nem usar crase kkkk\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Num reflexo da janela atrás de \"Nico\" aparece um apartamento pequeno, cheio de papéis colados na parede.</li>\n<li>A escrita do chat de \"Nico\" é idêntica à dos posts novos: perfeita demais.</li>\n<li>\"Nico\" repete as últimas palavras das próprias frases, o mesmo tique de Elisa.</li>\n<li><strong>Para Portais:</strong> a imagem treme de Névoa. Por um quadro, o rosto na tela é o de outra pessoa.</li>\n<li>A live pode ser gravada e analisada depois, o que leva ao apartamento de Elisa na Sessão 2.</li>\n</ul>\n</blockquote>\n<p><strong>Gancho para a Sessão 2.</strong></p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-live.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.ubmYDTbZMpfscye3]{Abrir a cena: A live}</p>\n\n<p><strong>Opcional — IML ou contato na polícia:</strong> o laudo aponta afogamento e nenhuma marca de empurrão. A polícia quer prender Amir de qualquer jeito, por pressão da mídia.</p>\n</div>",
       "markdown": ""
      },
      "image": {},
@@ -3492,7 +3492,7 @@
      },
      "text": {
       "format": 1,
-      "content": "<div class=\"mesa-alta reflexos-no-espelho\"><figure class=\"adc-hero\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-santuario-de-elisa.webp\"></figure>\n<p>A galera descobre que a morte foi acidente e que Elisa vive como Nico. Quando o cerco aperta, Elisa para de mentir e começa a falar com a voz dos outros. A sessão termina com um convite.</p>\n<h3>Camada 2 — \"Ela fala com a voz dele\"</h3>\n<blockquote class=\"adc-summary\">\n<p><strong>Resumo:</strong> cinco cenas no meio do iceberg, que podem ser jogadas em qualquer ordem. As Dicas desmontam o falso assassinato, revelam a persona e mostram, pela primeira vez, a mão de Tezca dos dois lados. A oposição de Elisa escala ao longo da sessão.</p>\n</blockquote>\n<p><strong>Profecia 2</strong> (use quando a galera travar): <em>\"Ela fala com a voz dele porque nunca teve a dela.\"</em></p>\n<h4>2.1 O santuário — o apartamento de Elisa</h4>\n<p><strong>Clima:</strong> apartamento pequeno e abafado, paredes cobertas de post-its, cadernos e prints, uma única luminária acesa. <strong>Obstáculo:</strong> Elisa pode voltar a qualquer momento; o vizinho ouve tudo pela parede fina.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O apartamento é menor que a varanda da suíte 3101. Cada centímetro de parede está coberto: post-its amarelos, cadernos abertos, prints de posts famosos com correções a caneta vermelha. Vocês reconhecem as frases. São as legendas mais curtidas de Nico Valença, escritas aqui, à mão, em versões dois, três, quatro. Numa estante, porta-retratos mostram Nico em festas, em viagens, em bastidores. Em todos eles há um espaço vazio ao lado dele, como se alguém tivesse saído da foto. Na prateleira do meio, a poeira desenha um círculo perfeito, onde alguma coisa redonda ficou por muito tempo.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Vizinho (pela parede):</strong> \"Mora alguém aí? Eu juro que achava que esse apartamento estava vazio.\"</li>\n<li><strong>Caderno de Elisa (lido em voz alta):</strong> \"Versão 4: 'Eu não preciso de espelho. Tenho dois milhões deles.' Ele vai adorar. Ele nunca sabe que fui eu.\"</li>\n<li><strong>Mensagem de Tezca no notebook:</strong> \"Ele está perdendo a sua arte, Elisa. E você vai deixar?\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>As legendas famosas de Nico foram escritas por Elisa, à mão, em várias versões.</li>\n<li>Ela não aparece em nenhuma foto do apartamento, nem nas selfies em grupo.</li>\n<li>No notebook estão as mensagens de Tezca para ela, como \"ele está perdendo a sua arte\" (<strong>prova 2, lado Elisa</strong>).</li>\n<li>Rascunhos dos posts que \"Nico\" publicou depois de morto estão num caderno recente.</li>\n<li><strong>Para Portais:</strong> o círculo na poeira solta um frio de obsidiana. O espelho esteve aqui; ela o leva consigo.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o escritório da agência, o estúdio.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-santuario-de-elisa.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.B3i2EhzfAfEssFAy]{Abrir a cena: O santuário de Elisa}</p>\n\n<h4>2.2 O cofre — o escritório da agência</h4>\n<p><strong>Clima:</strong> escritório de agência de influencers, neon na parede com o logo, ring lights apagados, cheiro de energético. <strong>Obstáculo:</strong> o Segurança da agência (Perigo de combate) e um cofre na sala de Nico, onde Elisa escondeu o celular dele.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O neon com o logo da agência ainda pisca na recepção vazia: \"MYTHOS INFLUENCERS\". Os ring lights estão desligados, as mesas têm garrafas de energético pela metade, e uma foto gigante de Nico ocupa a parede inteira do corredor, com uma faixa preta de luto atravessada no canto. No fim do corredor, a sala dele tem a porta de vidro trancada. Lá dentro, atrás de um quadro torto, dá para ver a quina metálica de um cofre. Passos ecoam no andar: o segurança faz a ronda, lanterna na mão, falando baixo no rádio.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Segurança:</strong> \"O escritório está fechado. Ninguém sobe sem autorização da dona Elisa. Dona Elisa? É… a assistente. A do cabelo preso.\"</li>\n<li><strong>Segurança (no rádio):</strong> \"Central, tem gente no sétimo. Manda a viatura.\"</li>\n<li><strong>Áudio no celular de Nico:</strong> \"Amir, é o Nico. Eu sei que você não quer me ouvir. Quero te pedir desculpas. Pessoalmente.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>O vídeo original da selfie não tem sombra nenhuma. Nico não sorri: parece surpreso, como quem vê um estranho.</li>\n<li>As mensagens de Tezca para Nico, como \"olhe mais para a arte, menos para a tela\" (<strong>prova 2, lado Nico</strong>).</li>\n<li>Na agenda de Nico há visitas frequentes à Galeria Quinto Sol nos últimos meses.</li>\n<li>A mensagem e o áudio \"quero te pedir desculpas\" para Amir, enviados na noite da queda.</li>\n<li>O arquivo original foi editado no notebook de Elisa na madrugada seguinte à morte.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o estúdio, a armadilha (se o segurança chamar a polícia, a armadilha fica mais perigosa).</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-agencia.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.6ElFXltWMEk3UxI9]{Abrir a cena: A agência}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/o-escritorio-da-agencia.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.FOc2y8JK4715u02J]{Abrir a cena: Battlemap — O escritório da agência}</p>\n\n<h4>2.3 A armadilha — um encontro marcado pela voz</h4>\n<p><strong>Clima:</strong> um lugar conhecido de um dos PJs (um bar, um estacionamento, uma praça), à noite, vazio demais. <strong>Obstáculo:</strong> a polícia ou a imprensa já está esperando, e um áudio falso circula colocando o PJ como cúmplice do \"assassinato\".</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O telefone toca, e é uma voz que você conhece melhor do que a sua. \"Sou eu. Preciso te ver hoje, sozinho. No lugar de sempre.\" A voz tem o jeito certo, as pausas certas, até aquela mania de pigarrear antes de dizer seu nome. Quando você chega, o lugar está vazio demais. Uma luz azul e vermelha gira devagar no fim da rua. No seu bolso, o celular vibra sem parar: um áudio com a sua voz, dizendo coisas que você nunca disse, já tem cinquenta mil visualizações.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Voz falsa (ao telefone):</strong> \"Sou eu. Preciso te ver hoje, sozinho. No lugar de sempre.\"</li>\n<li><strong>Policial:</strong> \"Você é o do áudio, né? Vamos conversar na delegacia. Com calma.\"</li>\n<li><strong>Áudio vazado (com a voz do PJ):</strong> \"O Amir só fez o que a gente combinou.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>O áudio falso tem as mesmas \"frases certinhas\" dos posts novos de Nico.</li>\n<li>A pessoa cuja voz foi usada nunca ligou. O número é de um chip descartável.</li>\n<li>O áudio vazado saiu da mesma conta anônima que vazou as DMs.</li>\n<li>Elisa partiu para o ataque: ela sabe que a galera chegou perto.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o despertar, o estúdio.</p>\n<h4>2.4 O despertar — Amir vê a Névoa</h4>\n<p><strong>Clima:</strong> bar do hotel quase vazio ou a sala escura do Amir, celular tocando sem parar. <strong>Obstáculo:</strong> Amir está em pânico e pode explodir a qualquer momento. É o momento decisivo do relógio de atitude.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> Amir liga três vezes seguidas antes de vocês atenderem. Quando chegam, ele está sentado no chão, de costas para a parede, segurando o celular como se fosse uma arma. Na tela, uma DM de @nicovalen: \"Eu te perdoo. Volta para mim.\" \"Não é ele\", Amir repete. \"O Nico nunca perdoou ninguém na vida.\" Então ele levanta os olhos para vocês, e os olhos dele estão diferentes. Ele olha para as sombras da sala como quem vê alguma coisa se mexendo nelas. \"Vocês também estão vendo isso?\"</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Amir:</strong> \"Eu estou vendo coisas. Ou eu finalmente estou vendo as coisas?\"</li>\n<li><strong>Amir:</strong> \"Ele queria me pedir desculpas. E alguém está usando a boca dele para me perdoar.\"</li>\n<li><strong>Amir (se maltratado antes):</strong> \"Vocês também acharam que fui eu. Então não me digam no que acreditar agora.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>A DM do \"Nico\" falso para Amir foi enviada do celular da agência, não do celular pessoal de Nico.</li>\n<li>Amir desperta como Portal de Ameínias: sente a Névoa e uma \"espada\", a vontade de cobrar.</li>\n<li>Ele confirma que o Nico real estava mudando e queria largar tudo.</li>\n<li><strong>Relógio de atitude:</strong> o que a galera fizer aqui pesa mais que qualquer outra cena.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o estúdio.</p>\n<h4>2.5 O estúdio — o confronto com Elisa</h4>\n<p><strong>Clima:</strong> estúdio de gravação alugado, ring light acesa, cenário montado igual ao quarto de Nico, cheiro de fumaça fria. <strong>Obstáculo:</strong> Elisa no auge da persona, com o espelho de obsidiana nas mãos e a voz como arma.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O cenário é perfeito: a cabeceira de veludo, os quadros, a planta no canto, tudo igual ao quarto de Nico nas lives. Só que é um estúdio, e as paredes de trás são de compensado. Elisa está sentada na cadeira dele, de frente para a câmera, segurando um disco negro que solta uma fumaça fina e fria. Quando ela se vira para vocês, por um segundo, o rosto dela é o rosto de Nico. No outro segundo, é só uma mulher cansada, que vocês têm dificuldade de lembrar mesmo olhando para ela.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Elisa:</strong> \"Esse não era ele. O Nico que vocês conheceram fui eu que escrevi.\"</li>\n<li><strong>Elisa (com a voz de Nico):</strong> \"Vocês querem me matar de novo? Um milhão de pessoas me querem vivo.\"</li>\n<li><strong>Elisa (antes de sumir):</strong> \"Ninguém nunca lembra de mim. Hoje isso vai ser útil.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Elisa admite, sob pressão, que a morte foi acidente e que ela editou o vídeo.</li>\n<li>O espelho foi \"um presente de um amigo que entende de arte\". Ela não diz o nome, mas o cartão da Galeria Quinto Sol está na mesa.</li>\n<li>Ela reage com raiva ao Nico real, mas a semente da virada fica plantada.</li>\n<li>Ao fugir, ela usa Esquecida: ninguém lembra para onde ela foi.</li>\n<li>Na mesa, fica um convite elegante para a inauguração da <em>Espelho</em>, assinado à mão: <em>\"Para os únicos que vão entender a obra. — T. T.\"</em></li>\n</ul>\n</blockquote>\n<p><strong>Gancho para a Sessão 3.</strong></p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-estudio.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.A2WNLrHAMyHTxil0]{Abrir a cena: O estúdio}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/o-estudio.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.PZQq2ikzX4ePlZXI]{Abrir a cena: Battlemap — O estúdio}</p>\n\n</div>",
+      "content": "<div class=\"mesa-alta reflexos-no-espelho\"><figure class=\"adc-hero\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-santuario-de-elisa.webp\"></figure>\n<p>A galera descobre que a morte foi acidente e que Elisa vive como Nico. Quando o cerco aperta, Elisa para de mentir e começa a falar com a voz dos outros. A sessão termina com um convite.</p>\n<h3>Camada 2 — \"Ela fala com a voz dele\"</h3>\n<blockquote class=\"adc-summary\">\n<p><strong>Resumo:</strong> cinco cenas no meio do iceberg, que podem ser jogadas em qualquer ordem. As Dicas desmontam o falso assassinato, revelam a persona e mostram, pela primeira vez, a mão de Tezca dos dois lados. A oposição de Elisa escala ao longo da sessão.</p>\n</blockquote>\n<p><strong>Profecia 2</strong> (use quando a galera travar): <em>\"Ela fala com a voz dele porque nunca teve a dela.\"</em></p>\n<h4>2.1 O santuário — o apartamento de Elisa</h4>\n<p><strong>Clima:</strong> apartamento pequeno e abafado, paredes cobertas de post-its, cadernos e prints, uma única luminária acesa. <strong>Obstáculo:</strong> Elisa pode voltar a qualquer momento; o vizinho ouve tudo pela parede fina.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O apartamento é menor que a varanda da suíte 3101. Cada centímetro de parede está coberto: post-its amarelos, cadernos abertos, prints de posts famosos com correções a caneta vermelha. Vocês reconhecem as frases. São as legendas mais curtidas de Nico Valença, escritas aqui, à mão, em versões dois, três, quatro. Numa estante, porta-retratos mostram Nico em festas, em viagens, em bastidores. Em todos eles há um espaço vazio ao lado dele, como se alguém tivesse saído da foto. Na prateleira do meio, a poeira desenha um círculo perfeito, onde alguma coisa redonda ficou por muito tempo.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Vizinho (pela parede):</strong> \"Mora alguém aí? Eu juro que achava que esse apartamento estava vazio.\"</li>\n<li><strong>Caderno de Elisa (lido em voz alta):</strong> \"Versão 4: 'Eu não preciso de espelho. Tenho dois milhões deles.' Ele vai adorar. Ele nunca sabe que fui eu.\"</li>\n<li><strong>Mensagem de Tezca no notebook:</strong> \"Ele está perdendo a sua arte, Elisa. E você vai deixar?\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>As legendas famosas de Nico foram escritas por Elisa, à mão, em várias versões.</li>\n<li>Ela não aparece em nenhuma foto do apartamento, nem nas selfies em grupo.</li>\n<li>No notebook estão as mensagens de Tezca para ela, como \"ele está perdendo a sua arte\" (<strong>prova 2, lado Elisa</strong>).</li>\n<li>Rascunhos dos posts que \"Nico\" publicou depois de morto estão num caderno recente.</li>\n<li><strong>Para Portais:</strong> o círculo na poeira solta um frio de obsidiana. O espelho esteve aqui; ela o leva consigo.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o escritório da agência, o estúdio.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-santuario-de-elisa.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.B3i2EhzfAfEssFAy]{Abrir a cena: O santuário de Elisa}</p>\n\n<h4>2.2 O cofre — o escritório da agência</h4>\n<p><strong>Clima:</strong> escritório de agência de influencers, neon na parede com o logo, ring lights apagados, cheiro de energético. <strong>Obstáculo:</strong> o Segurança da agência (Perigo de combate) e um cofre na sala de Nico, onde Elisa escondeu o celular dele.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O neon com o logo da agência ainda pisca na recepção vazia: \"MYTHOS INFLUENCERS\". Os ring lights estão desligados, as mesas têm garrafas de energético pela metade, e uma foto gigante de Nico ocupa a parede inteira do corredor, com uma faixa preta de luto atravessada no canto. No fim do corredor, a sala dele tem a porta de vidro trancada. Lá dentro, atrás de um quadro torto, dá para ver a quina metálica de um cofre. Passos ecoam no andar: o segurança faz a ronda, lanterna na mão, falando baixo no rádio.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Segurança:</strong> \"O escritório está fechado. Ninguém sobe sem autorização da dona Elisa. Dona Elisa? É… a assistente. A do cabelo preso.\"</li>\n<li><strong>Segurança (no rádio):</strong> \"Central, tem gente no sétimo. Manda a viatura.\"</li>\n<li><strong>Áudio no celular de Nico:</strong> \"Amir, é o Nico. Eu sei que você não quer me ouvir. Quero te pedir desculpas. Pessoalmente.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>O vídeo original da selfie não tem sombra nenhuma. Nico não sorri: parece surpreso, como quem vê um estranho.</li>\n<li>As mensagens de Tezca para Nico, como \"olhe mais para a arte, menos para a tela\" (<strong>prova 2, lado Nico</strong>).</li>\n<li>Na agenda de Nico há visitas frequentes à Galeria Quinto Sol nos últimos meses.</li>\n<li>A mensagem e o áudio \"quero te pedir desculpas\" para Amir, enviados na noite da queda.</li>\n<li>O arquivo original foi editado no notebook de Elisa na madrugada seguinte à morte.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o estúdio, a armadilha (se o segurança chamar a polícia, a armadilha fica mais perigosa).</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-agencia.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.6ElFXltWMEk3UxI9]{Abrir a cena: A agência}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/o-escritorio-da-agencia.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.FOc2y8JK4715u02J]{Abrir a cena: O escritório da agência}</p>\n\n<h4>2.3 A armadilha — um encontro marcado pela voz</h4>\n<p><strong>Clima:</strong> um lugar conhecido de um dos PJs (um bar, um estacionamento, uma praça), à noite, vazio demais. <strong>Obstáculo:</strong> a polícia ou a imprensa já está esperando, e um áudio falso circula colocando o PJ como cúmplice do \"assassinato\".</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O telefone toca, e é uma voz que você conhece melhor do que a sua. \"Sou eu. Preciso te ver hoje, sozinho. No lugar de sempre.\" A voz tem o jeito certo, as pausas certas, até aquela mania de pigarrear antes de dizer seu nome. Quando você chega, o lugar está vazio demais. Uma luz azul e vermelha gira devagar no fim da rua. No seu bolso, o celular vibra sem parar: um áudio com a sua voz, dizendo coisas que você nunca disse, já tem cinquenta mil visualizações.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Voz falsa (ao telefone):</strong> \"Sou eu. Preciso te ver hoje, sozinho. No lugar de sempre.\"</li>\n<li><strong>Policial:</strong> \"Você é o do áudio, né? Vamos conversar na delegacia. Com calma.\"</li>\n<li><strong>Áudio vazado (com a voz do PJ):</strong> \"O Amir só fez o que a gente combinou.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>O áudio falso tem as mesmas \"frases certinhas\" dos posts novos de Nico.</li>\n<li>A pessoa cuja voz foi usada nunca ligou. O número é de um chip descartável.</li>\n<li>O áudio vazado saiu da mesma conta anônima que vazou as DMs.</li>\n<li>Elisa partiu para o ataque: ela sabe que a galera chegou perto.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o despertar, o estúdio.</p>\n<h4>2.4 O despertar — Amir vê a Névoa</h4>\n<p><strong>Clima:</strong> bar do hotel quase vazio ou a sala escura do Amir, celular tocando sem parar. <strong>Obstáculo:</strong> Amir está em pânico e pode explodir a qualquer momento. É o momento decisivo do relógio de atitude.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> Amir liga três vezes seguidas antes de vocês atenderem. Quando chegam, ele está sentado no chão, de costas para a parede, segurando o celular como se fosse uma arma. Na tela, uma DM de @nicovalen: \"Eu te perdoo. Volta para mim.\" \"Não é ele\", Amir repete. \"O Nico nunca perdoou ninguém na vida.\" Então ele levanta os olhos para vocês, e os olhos dele estão diferentes. Ele olha para as sombras da sala como quem vê alguma coisa se mexendo nelas. \"Vocês também estão vendo isso?\"</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Amir:</strong> \"Eu estou vendo coisas. Ou eu finalmente estou vendo as coisas?\"</li>\n<li><strong>Amir:</strong> \"Ele queria me pedir desculpas. E alguém está usando a boca dele para me perdoar.\"</li>\n<li><strong>Amir (se maltratado antes):</strong> \"Vocês também acharam que fui eu. Então não me digam no que acreditar agora.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>A DM do \"Nico\" falso para Amir foi enviada do celular da agência, não do celular pessoal de Nico.</li>\n<li>Amir desperta como Portal de Ameínias: sente a Névoa e uma \"espada\", a vontade de cobrar.</li>\n<li>Ele confirma que o Nico real estava mudando e queria largar tudo.</li>\n<li><strong>Relógio de atitude:</strong> o que a galera fizer aqui pesa mais que qualquer outra cena.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o estúdio.</p>\n<h4>2.5 O estúdio — o confronto com Elisa</h4>\n<p><strong>Clima:</strong> estúdio de gravação alugado, ring light acesa, cenário montado igual ao quarto de Nico, cheiro de fumaça fria. <strong>Obstáculo:</strong> Elisa no auge da persona, com o espelho de obsidiana nas mãos e a voz como arma.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O cenário é perfeito: a cabeceira de veludo, os quadros, a planta no canto, tudo igual ao quarto de Nico nas lives. Só que é um estúdio, e as paredes de trás são de compensado. Elisa está sentada na cadeira dele, de frente para a câmera, segurando um disco negro que solta uma fumaça fina e fria. Quando ela se vira para vocês, por um segundo, o rosto dela é o rosto de Nico. No outro segundo, é só uma mulher cansada, que vocês têm dificuldade de lembrar mesmo olhando para ela.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Elisa:</strong> \"Esse não era ele. O Nico que vocês conheceram fui eu que escrevi.\"</li>\n<li><strong>Elisa (com a voz de Nico):</strong> \"Vocês querem me matar de novo? Um milhão de pessoas me querem vivo.\"</li>\n<li><strong>Elisa (antes de sumir):</strong> \"Ninguém nunca lembra de mim. Hoje isso vai ser útil.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Elisa admite, sob pressão, que a morte foi acidente e que ela editou o vídeo.</li>\n<li>O espelho foi \"um presente de um amigo que entende de arte\". Ela não diz o nome, mas o cartão da Galeria Quinto Sol está na mesa.</li>\n<li>Ela reage com raiva ao Nico real, mas a semente da virada fica plantada.</li>\n<li>Ao fugir, ela usa Esquecida: ninguém lembra para onde ela foi.</li>\n<li>Na mesa, fica um convite elegante para a inauguração da <em>Espelho</em>, assinado à mão: <em>\"Para os únicos que vão entender a obra. — T. T.\"</em></li>\n</ul>\n</blockquote>\n<p><strong>Gancho para a Sessão 3.</strong></p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-estudio.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.A2WNLrHAMyHTxil0]{Abrir a cena: O estúdio}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/o-estudio.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.PZQq2ikzX4ePlZXI]{Abrir a cena: Estúdio de gravação}</p>\n\n</div>",
       "markdown": ""
      },
      "image": {},
@@ -3529,7 +3529,7 @@
      },
      "text": {
       "format": 1,
-      "content": "<div class=\"mesa-alta reflexos-no-espelho\"><figure class=\"adc-hero\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-lancamento.webp\"></figure>\n<p>A galera encara Tezca, junta as provas da obra forjada e disputa a narrativa no lançamento da <em>Espelho</em>, no rooftop do Aqua Miragem, sobre a mesma piscina onde Nico morreu.</p>\n<h3>Camada 3 — \"O espelho não mostra. Ele é visto.\"</h3>\n<blockquote class=\"adc-summary\">\n<p><strong>Resumo:</strong> quatro cenas de preparação e uma grande cena final. As Dicas mostram que Tezca jogou dos dois lados desde o início e que a obra estava planejada antes da morte. Cada prova conquistada abre o espectro Expor a figura no lançamento.</p>\n</blockquote>\n<h4>3.1 A Galeria Quinto Sol — conversa com o vilão</h4>\n<p><strong>Clima:</strong> galeria branca e silenciosa, um disco solar dourado no centro do salão, funcionários correndo com caixas e etiquetas. <strong>Obstáculo:</strong> Tezca recebe a galera pessoalmente e nunca a deixa sozinha. Alguém precisa distraí-lo enquanto outro bisbilhota.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> A Galeria Quinto Sol é tão branca que dói nos olhos. No centro do salão, um disco dourado de três metros gira devagar, refletindo a luz de um jeito que faz a sala parecer mais quente do que é. Funcionários passam apressados, carregando caixas marcadas \"ESPELHO — URGENTE\". Teo Tezca desce a escada em caracol de braços abertos, como quem reencontra velhos amigos. \"Vocês vieram! Eu sabia. Venham, venham. Querem um café? Um vinho? Uma verdade?\" Ele ri da própria piada. Ninguém mais ri.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tezca:</strong> \"O Nico era uma obra inacabada. Infelizmente, quem termina as obras nem sempre é o artista.\"</li>\n<li><strong>Tezca:</strong> \"Vocês querem a verdade. Eu entendo. Mas me digam: qual verdade vocês querem que o público veja?\"</li>\n<li><strong>Tezca (olhando um PJ nos olhos):</strong> \"Todo mundo tem um desejo escrito no rosto. O seu é bem bonito, sabia?\"</li>\n<li><strong>Clara, a curadora (em voz baixa):</strong> \"O conceito era outro. Mudou na semana em que ele morreu.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Convites reimpressos com a data nova empilhados no depósito, e os antigos com a data original no lixo (<strong>prova 3</strong>).</li>\n<li>No financeiro, a fatura da suíte 3101 do Aqua Miragem, paga pela galeria (<strong>prova 4</strong>).</li>\n<li>Rascunhos da <em>Espelho</em> com data de dois meses antes da morte de Nico (<strong>prova 3</strong>).</li>\n<li>A curadora está desconfortável e solta que o conceito mudou de última hora.</li>\n<li>Tezca usa Gentileza envenenada: oferece a um PJ exatamente o que ele deseja.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> os arquivos de Tirésias, a curadora em fuga, a montagem.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/galeria-quinto-sol.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.GawdMECNL3xOiGyX]{Abrir a cena: Galeria Quinto Sol}</p>\n\n<h4>3.2 Os arquivos de papel — o golpe em Tirésias</h4>\n<p><strong>Clima:</strong> noite, consultório fechado, gavetas abertas, papel espalhado no chão, a fita da última sessão de Nico no gravador. <strong>Obstáculo:</strong> emocional. Tirésias descobre que foi usado e pode desmoronar.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> Tirésias pede que vocês leiam as fichas em voz alta, uma por uma. Datas, valores, assinaturas. Na ficha de Nico, preso com um clipe, há um canhoto de cheque. Quem pagou as primeiras sessões não foi Nico. Foi a Galeria Quinto Sol. Quando vocês leem o nome, Tirésias para de respirar por um segundo. Depois aperta o play no gravador. A voz de Nico enche a sala: \"Doutor, ontem eu vi uma foto minha e não me reconheci. Isso é bom ou ruim?\" E a voz de Tirésias, mais jovem do que agora: \"Isso é o começo.\"</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tirésias:</strong> \"Fui eu, não fui? Fui eu que ensinei ele a se conhecer.\"</li>\n<li><strong>Tirésias:</strong> \"Ele me indicou um paciente como quem indica um vinho. E eu agradeci.\"</li>\n<li><strong>Tirésias (se recompondo):</strong> \"Então eu também sou prova. Me levem a essa festa.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>O canhoto do cheque da Galeria Quinto Sol que pagou as sessões de Nico (<strong>prova 1</strong>).</li>\n<li>Tirésias confirma que foi Tezca quem indicou o terapeuta, e aceita testemunhar.</li>\n<li>A fita da última sessão prova que Nico queria largar as redes, o que pode ajudar a convencer Elisa.</li>\n<li><strong>Profecia 3:</strong> \"O espelho não mostra. Ele é visto.\"</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a curadora em fuga, a montagem.</p>\n<h4>3.3 A curadora em fuga — contra o relógio</h4>\n<p><strong>Clima:</strong> aeroporto lotado de madrugada, painéis piscando, anúncios de embarque. <strong>Obstáculo:</strong> o voo de Clara para Lisboa sai em quarenta minutos, e um assistente de Tezca a acompanha \"para garantir que ela embarque bem\".</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O painel de embarque pisca em amarelo: \"LISBOA — ÚLTIMA CHAMADA\". Clara Moura está na fila do portão, segurando o passaporte como quem segura um bilhete de loteria que ela não comprou. Ao lado dela, um rapaz de terno preto sorri para todo mundo e não tira a mão do ombro dela. Quando Clara vê vocês, os olhos dela se enchem de alguma coisa entre alívio e pânico.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Clara:</strong> \"O Teo me deu uma passagem para Lisboa. Disse que eu mereço descansar. Ele nunca me deu nada.\"</li>\n<li><strong>Clara:</strong> \"Se eu falar, eu nunca mais trabalho com arte nesta Cidade.\"</li>\n<li><strong>Assistente de Tezca:</strong> \"A senhorita Moura está de férias. O senhor Tezca mandou lembranças a vocês.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Clara pode testemunhar que o conceito da <em>Espelho</em> mudou na semana da morte (<strong>prova 5</strong>).</li>\n<li>Ela tem no tablet a versão original do projeto: \"Rompimento\", sobre um influencer e sua ghostwriter.</li>\n<li>Ela sabe onde fica o roteiro final da performance: na sala técnica do rooftop.</li>\n<li>Se a galera não chegar a tempo, ela embarca, e a prova 5 se perde.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a montagem.</p>\n<h4>3.4 A montagem — a noite anterior</h4><p class=\"adc-cap\">@UUID[Scene.B33UdyV0dvOtgXZV]{Abrir a cena: Battlemap — Rooftop do Aqua Miragem (montagem)}</p>\n<p><strong>Clima:</strong> rooftop do Aqua Miragem à noite, andaimes, cabos, telão gigante coberto por uma lona preta, a piscina de borda infinita iluminada por baixo. <strong>Obstáculo:</strong> a Segurança da exposição em versão pesada (Perigo de combate). Tezca não pode deixar nada vazar.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O rooftop do Aqua Miragem parece um palco antes do show. Andaimes, caixas de som, cabos grossos correndo pelo chão até uma sala técnica de vidro fumê. No fundo, um telão do tamanho de um prédio pequeno está coberto por uma lona preta, que estala ao vento. Logo abaixo, a piscina de borda infinita brilha, iluminada por dentro, exatamente onde Nico caiu. Seguranças de preto circulam em duplas, com pontos no ouvido. Cada um que passa olha primeiro para a piscina, depois para as sombras.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Segurança (no ponto):</strong> \"Nenhum celular perto do telão. Ordem do senhor Tezca. Nenhum.\"</li>\n<li><strong>Técnico de som:</strong> \"Ensaio geral em dez. Etapa três, os cadernos. Liga o projetor dos cadernos.\"</li>\n<li><strong>Segurança (flagrando alguém):</strong> \"Vocês não deveriam estar aqui. Ninguém deveria estar aqui.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Na sala técnica está o roteiro da <em>Espelho</em>, com as quatro etapas da performance (as \"flautas\").</li>\n<li>A etapa 3 expõe os textos íntimos de Elisa, e ela não sabe disso.</li>\n<li>O telão é controlado por uma única mesa na sala técnica: quem a tiver amanhã controla a narrativa.</li>\n<li>É a última chance de preparar a tomada da tela, plantar as provas ou avisar Elisa.</li>\n<li>Ser pego aciona uma consequência narrativa à escolha do MC: expulsão discreta, escândalo ou \"os censores\".</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o lançamento.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-montagem.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.vX938DTGoqRd1UUW]{Abrir a cena: A montagem — Rooftop do Aqua Miragem}</p>\n\n<h4>3.5 O lançamento — a <em>Espelho</em></h4>\n<p><strong>Clima:</strong> festa no rooftop, champanhe, celebridades, flashes, música eletrônica baixa, a piscina refletindo o telão. <strong>Obstáculo:</strong> a Segurança da exposição em volume normal, a plateia inteira filmando e o especial Mártir de Tezca: qualquer ataque visível o torna mais forte.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O rooftop do Aqua Miragem está lotado. Gente bonita, roupas caras, celulares no alto. A lona preta caiu, e o telão mostra só uma palavra, em letras prateadas: ESPELHO. Na borda da piscina, sob um foco de luz, está ele: Nico Valença, vivo, sorrindo, de terno branco. A plateia aplaude, chora, grita. Teo Tezca sobe ao palco com uma taça na mão e espera o silêncio. \"Hoje\", ele diz, \"vocês vão ver a obra mais honesta da minha vida. E talvez da de vocês.\" As luzes se apagam. Na tela, começa a tocar um vídeo de selfie.</p>\n</blockquote>\n<p>No Tóxcatl asteca, o jovem escolhido subia o templo quebrando as flautas que tocou durante o ano. A <em>Espelho</em> avança assim, em quatro etapas na tela gigante. Cada etapa é uma janela para a galera agir:</p>\n<ol>\n<li><strong>A selfie:</strong> o vídeo original, com Nico surpreso.</li>\n<li><strong>A sombra:</strong> a edição do vídeo e o vazamento das DMs, lado a lado com os originais.</li>\n<li><strong>Os cadernos:</strong> os rascunhos de Elisa, quem escrevia Nico, e os textos íntimos dela.</li>\n<li><strong>O rosto:</strong> a revelação final. \"Nico\" é Elisa.</li>\n</ol>\n<p>A obra é a própria revelação, feita de material mundano que qualquer dormente entende. O espelho de obsidiana nunca aparece. Para o público, é a obra-prima do ano, uma crítica genial à cultura da imagem.</p>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tezca (ao microfone):</strong> \"Vocês amaram um reflexo. Eu só tive a coragem de mostrar o espelho.\"</li>\n<li><strong>Elisa (na etapa 3, ao ver os cadernos):</strong> \"Isso era meu. Isso era a única coisa que era minha.\"</li>\n<li><strong>Elisa (se virar aliada):</strong> \"Pela primeira vez, alguém vai ouvir o que eu tenho a dizer, e não o que eu escrevi para ele.\"</li>\n<li><strong>Amir (chegando):</strong> \"Alguém aqui ainda quer saber quem o Nico era de verdade? Eu sei.\"</li>\n<li><strong>Tezca (exposto):</strong> \"Vocês acham que me cancelaram? Vocês só escreveram o segundo ato.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li><strong>A virada de Elisa:</strong> na etapa 3 ela entende que é a obra, e não a parceira. Se a galera plantou sementes antes, ela aceita ajuda aqui.</li>\n<li><strong>Amir</strong> chega por conta própria, como aliado, instável ou ameaça, conforme o relógio de atitude.</li>\n<li><strong>Derrotar a figura:</strong> só provas, testemunhas (Tirésias, Clara) e a própria Elisa sobem Expor a figura.</li>\n<li><strong>Derrotar a pessoa:</strong> qualquer confronto aberto contra Tezca vira \"vândalos atacando o artista\", e ele ganha <em>aclamado</em>.</li>\n<li>Quem controla a mesa da sala técnica controla o que aparece no telão.</li>\n</ul>\n</blockquote>\n<p>Veja <strong>Relógio de atitude do Amir e finais possíveis</strong> para resolver a cena.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-lancamento.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.jK6nynvDTWPaxpHy]{Abrir a cena: O lançamento da Espelho}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/rooftop-do-aqua-miragem.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.MBjabds9WZKhRmAh]{Abrir a cena: Battlemap — Rooftop do Aqua Miragem (lançamento)}</p>\n<p class=\"adc-cap\">@UUID[Scene.B33UdyV0dvOtgXZV]{Abrir a cena: Battlemap — Rooftop do Aqua Miragem (montagem)}</p>\n\n<h4>3.6 Epílogo</h4>\n<p>Cruze os destinos de Tezca, Elisa e Amir (veja os finais possíveis). Termine com Tirésias.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta (sugestão):</strong> Dias depois, o consultório está em silêncio. Tirésias pede que alguém leia para ele o último post do perfil de Nico, seja ele qual for. Ouve com os olhos fechados. No fim, tira os óculos escuros, dobra-os com cuidado e diz, mais para si do que para vocês: \"Ele viveria muito, se nunca se conhecesse. Eu sempre soube como a frase terminava. Só não sabia que era eu quem ia terminá-la.\"</p>\n</blockquote>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/epilogo.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.LK7Sc6WWl4o7fT6M]{Abrir a cena: Epílogo}</p>\n\n</div>",
+      "content": "<div class=\"mesa-alta reflexos-no-espelho\"><figure class=\"adc-hero\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-lancamento.webp\"></figure>\n<p>A galera encara Tezca, junta as provas da obra forjada e disputa a narrativa no lançamento da <em>Espelho</em>, no rooftop do Aqua Miragem, sobre a mesma piscina onde Nico morreu.</p>\n<h3>Camada 3 — \"O espelho não mostra. Ele é visto.\"</h3>\n<blockquote class=\"adc-summary\">\n<p><strong>Resumo:</strong> quatro cenas de preparação e uma grande cena final. As Dicas mostram que Tezca jogou dos dois lados desde o início e que a obra estava planejada antes da morte. Cada prova conquistada abre o espectro Expor a figura no lançamento.</p>\n</blockquote>\n<h4>3.1 A Galeria Quinto Sol — conversa com o vilão</h4>\n<p><strong>Clima:</strong> galeria branca e silenciosa, um disco solar dourado no centro do salão, funcionários correndo com caixas e etiquetas. <strong>Obstáculo:</strong> Tezca recebe a galera pessoalmente e nunca a deixa sozinha. Alguém precisa distraí-lo enquanto outro bisbilhota.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> A Galeria Quinto Sol é tão branca que dói nos olhos. No centro do salão, um disco dourado de três metros gira devagar, refletindo a luz de um jeito que faz a sala parecer mais quente do que é. Funcionários passam apressados, carregando caixas marcadas \"ESPELHO — URGENTE\". Teo Tezca desce a escada em caracol de braços abertos, como quem reencontra velhos amigos. \"Vocês vieram! Eu sabia. Venham, venham. Querem um café? Um vinho? Uma verdade?\" Ele ri da própria piada. Ninguém mais ri.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tezca:</strong> \"O Nico era uma obra inacabada. Infelizmente, quem termina as obras nem sempre é o artista.\"</li>\n<li><strong>Tezca:</strong> \"Vocês querem a verdade. Eu entendo. Mas me digam: qual verdade vocês querem que o público veja?\"</li>\n<li><strong>Tezca (olhando um PJ nos olhos):</strong> \"Todo mundo tem um desejo escrito no rosto. O seu é bem bonito, sabia?\"</li>\n<li><strong>Clara, a curadora (em voz baixa):</strong> \"O conceito era outro. Mudou na semana em que ele morreu.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Convites reimpressos com a data nova empilhados no depósito, e os antigos com a data original no lixo (<strong>prova 3</strong>).</li>\n<li>No financeiro, a fatura da suíte 3101 do Aqua Miragem, paga pela galeria (<strong>prova 4</strong>).</li>\n<li>Rascunhos da <em>Espelho</em> com data de dois meses antes da morte de Nico (<strong>prova 3</strong>).</li>\n<li>A curadora está desconfortável e solta que o conceito mudou de última hora.</li>\n<li>Tezca usa Gentileza envenenada: oferece a um PJ exatamente o que ele deseja.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> os arquivos de Tirésias, a curadora em fuga, a montagem.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/galeria-quinto-sol.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.GawdMECNL3xOiGyX]{Abrir a cena: Galeria Quinto Sol}</p>\n\n<h4>3.2 Os arquivos de papel — o golpe em Tirésias</h4>\n<p><strong>Clima:</strong> noite, consultório fechado, gavetas abertas, papel espalhado no chão, a fita da última sessão de Nico no gravador. <strong>Obstáculo:</strong> emocional. Tirésias descobre que foi usado e pode desmoronar.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> Tirésias pede que vocês leiam as fichas em voz alta, uma por uma. Datas, valores, assinaturas. Na ficha de Nico, preso com um clipe, há um canhoto de cheque. Quem pagou as primeiras sessões não foi Nico. Foi a Galeria Quinto Sol. Quando vocês leem o nome, Tirésias para de respirar por um segundo. Depois aperta o play no gravador. A voz de Nico enche a sala: \"Doutor, ontem eu vi uma foto minha e não me reconheci. Isso é bom ou ruim?\" E a voz de Tirésias, mais jovem do que agora: \"Isso é o começo.\"</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tirésias:</strong> \"Fui eu, não fui? Fui eu que ensinei ele a se conhecer.\"</li>\n<li><strong>Tirésias:</strong> \"Ele me indicou um paciente como quem indica um vinho. E eu agradeci.\"</li>\n<li><strong>Tirésias (se recompondo):</strong> \"Então eu também sou prova. Me levem a essa festa.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>O canhoto do cheque da Galeria Quinto Sol que pagou as sessões de Nico (<strong>prova 1</strong>).</li>\n<li>Tirésias confirma que foi Tezca quem indicou o terapeuta, e aceita testemunhar.</li>\n<li>A fita da última sessão prova que Nico queria largar as redes, o que pode ajudar a convencer Elisa.</li>\n<li><strong>Profecia 3:</strong> \"O espelho não mostra. Ele é visto.\"</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a curadora em fuga, a montagem.</p>\n<h4>3.3 A curadora em fuga — contra o relógio</h4>\n<p><strong>Clima:</strong> aeroporto lotado de madrugada, painéis piscando, anúncios de embarque. <strong>Obstáculo:</strong> o voo de Clara para Lisboa sai em quarenta minutos, e um assistente de Tezca a acompanha \"para garantir que ela embarque bem\".</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O painel de embarque pisca em amarelo: \"LISBOA — ÚLTIMA CHAMADA\". Clara Moura está na fila do portão, segurando o passaporte como quem segura um bilhete de loteria que ela não comprou. Ao lado dela, um rapaz de terno preto sorri para todo mundo e não tira a mão do ombro dela. Quando Clara vê vocês, os olhos dela se enchem de alguma coisa entre alívio e pânico.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Clara:</strong> \"O Teo me deu uma passagem para Lisboa. Disse que eu mereço descansar. Ele nunca me deu nada.\"</li>\n<li><strong>Clara:</strong> \"Se eu falar, eu nunca mais trabalho com arte nesta Cidade.\"</li>\n<li><strong>Assistente de Tezca:</strong> \"A senhorita Moura está de férias. O senhor Tezca mandou lembranças a vocês.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Clara pode testemunhar que o conceito da <em>Espelho</em> mudou na semana da morte (<strong>prova 5</strong>).</li>\n<li>Ela tem no tablet a versão original do projeto: \"Rompimento\", sobre um influencer e sua ghostwriter.</li>\n<li>Ela sabe onde fica o roteiro final da performance: na sala técnica do rooftop.</li>\n<li>Se a galera não chegar a tempo, ela embarca, e a prova 5 se perde.</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> a montagem.</p>\n<h4>3.4 A montagem — a noite anterior</h4>\n<p><strong>Clima:</strong> rooftop do Aqua Miragem à noite, andaimes, cabos, telão gigante coberto por uma lona preta, a piscina de borda infinita iluminada por baixo. <strong>Obstáculo:</strong> a Segurança da exposição em versão pesada (Perigo de combate). Tezca não pode deixar nada vazar.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O rooftop do Aqua Miragem parece um palco antes do show. Andaimes, caixas de som, cabos grossos correndo pelo chão até uma sala técnica de vidro fumê. No fundo, um telão do tamanho de um prédio pequeno está coberto por uma lona preta, que estala ao vento. Logo abaixo, a piscina de borda infinita brilha, iluminada por dentro, exatamente onde Nico caiu. Seguranças de preto circulam em duplas, com pontos no ouvido. Cada um que passa olha primeiro para a piscina, depois para as sombras.</p>\n</blockquote>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Segurança (no ponto):</strong> \"Nenhum celular perto do telão. Ordem do senhor Tezca. Nenhum.\"</li>\n<li><strong>Técnico de som:</strong> \"Ensaio geral em dez. Etapa três, os cadernos. Liga o projetor dos cadernos.\"</li>\n<li><strong>Segurança (flagrando alguém):</strong> \"Vocês não deveriam estar aqui. Ninguém deveria estar aqui.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li>Na sala técnica está o roteiro da <em>Espelho</em>, com as quatro etapas da performance (as \"flautas\").</li>\n<li>A etapa 3 expõe os textos íntimos de Elisa, e ela não sabe disso.</li>\n<li>O telão é controlado por uma única mesa na sala técnica: quem a tiver amanhã controla a narrativa.</li>\n<li>É a última chance de preparar a tomada da tela, plantar as provas ou avisar Elisa.</li>\n<li>Ser pego aciona uma consequência narrativa à escolha do MC: expulsão discreta, escândalo ou \"os censores\".</li>\n</ul>\n</blockquote>\n<p><strong>Saídas:</strong> o lançamento.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/a-montagem.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.vX938DTGoqRd1UUW]{Abrir a cena: A montagem — Rooftop do Aqua Miragem}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/rooftop-do-aqua-miragem-montagem.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.B33UdyV0dvOtgXZV]{Abrir a cena: Rooftop do Aqua Miragem — montagem}</p>\n\n<h4>3.5 O lançamento — a <em>Espelho</em></h4>\n<p><strong>Clima:</strong> festa no rooftop, champanhe, celebridades, flashes, música eletrônica baixa, a piscina refletindo o telão. <strong>Obstáculo:</strong> a Segurança da exposição em volume normal, a plateia inteira filmando e o especial Mártir de Tezca: qualquer ataque visível o torna mais forte.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta:</strong> O rooftop do Aqua Miragem está lotado. Gente bonita, roupas caras, celulares no alto. A lona preta caiu, e o telão mostra só uma palavra, em letras prateadas: ESPELHO. Na borda da piscina, sob um foco de luz, está ele: Nico Valença, vivo, sorrindo, de terno branco. A plateia aplaude, chora, grita. Teo Tezca sobe ao palco com uma taça na mão e espera o silêncio. \"Hoje\", ele diz, \"vocês vão ver a obra mais honesta da minha vida. E talvez da de vocês.\" As luzes se apagam. Na tela, começa a tocar um vídeo de selfie.</p>\n</blockquote>\n<p>No Tóxcatl asteca, o jovem escolhido subia o templo quebrando as flautas que tocou durante o ano. A <em>Espelho</em> avança assim, em quatro etapas na tela gigante. Cada etapa é uma janela para a galera agir:</p>\n<ol>\n<li><strong>A selfie:</strong> o vídeo original, com Nico surpreso.</li>\n<li><strong>A sombra:</strong> a edição do vídeo e o vazamento das DMs, lado a lado com os originais.</li>\n<li><strong>Os cadernos:</strong> os rascunhos de Elisa, quem escrevia Nico, e os textos íntimos dela.</li>\n<li><strong>O rosto:</strong> a revelação final. \"Nico\" é Elisa.</li>\n</ol>\n<p>A obra é a própria revelação, feita de material mundano que qualquer dormente entende. O espelho de obsidiana nunca aparece. Para o público, é a obra-prima do ano, uma crítica genial à cultura da imagem.</p>\n<div class=\"adc-falas\"><p class=\"adc-falas-h\">Falas:</p><ul>\n<li><strong>Tezca (ao microfone):</strong> \"Vocês amaram um reflexo. Eu só tive a coragem de mostrar o espelho.\"</li>\n<li><strong>Elisa (na etapa 3, ao ver os cadernos):</strong> \"Isso era meu. Isso era a única coisa que era minha.\"</li>\n<li><strong>Elisa (se virar aliada):</strong> \"Pela primeira vez, alguém vai ouvir o que eu tenho a dizer, e não o que eu escrevi para ele.\"</li>\n<li><strong>Amir (chegando):</strong> \"Alguém aqui ainda quer saber quem o Nico era de verdade? Eu sei.\"</li>\n<li><strong>Tezca (exposto):</strong> \"Vocês acham que me cancelaram? Vocês só escreveram o segundo ato.\"</li>\n</ul></div>\n<blockquote class=\"adc-postit\">\n<p class=\"adc-postit-h\">Dicas</p>\n<ul>\n<li><strong>A virada de Elisa:</strong> na etapa 3 ela entende que é a obra, e não a parceira. Se a galera plantou sementes antes, ela aceita ajuda aqui.</li>\n<li><strong>Amir</strong> chega por conta própria, como aliado, instável ou ameaça, conforme o relógio de atitude.</li>\n<li><strong>Derrotar a figura:</strong> só provas, testemunhas (Tirésias, Clara) e a própria Elisa sobem Expor a figura.</li>\n<li><strong>Derrotar a pessoa:</strong> qualquer confronto aberto contra Tezca vira \"vândalos atacando o artista\", e ele ganha <em>aclamado</em>.</li>\n<li>Quem controla a mesa da sala técnica controla o que aparece no telão.</li>\n</ul>\n</blockquote>\n<p>Veja <strong>Relógio de atitude do Amir e finais possíveis</strong> para resolver a cena.</p>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/o-lancamento.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.jK6nynvDTWPaxpHy]{Abrir a cena: O lançamento da Espelho}</p>\n\n<figure class=\"adc-fig adc-map\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/mapas/rooftop-do-aqua-miragem.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.MBjabds9WZKhRmAh]{Abrir a cena: Rooftop do Aqua Miragem — lançamento}</p>\n\n<h4>3.6 Epílogo</h4>\n<p>Cruze os destinos de Tezca, Elisa e Amir (veja os finais possíveis). Termine com Tirésias.</p>\n<blockquote class=\"adc-aloud\">\n<p><strong>Leia em voz alta (sugestão):</strong> Dias depois, o consultório está em silêncio. Tirésias pede que alguém leia para ele o último post do perfil de Nico, seja ele qual for. Ouve com os olhos fechados. No fim, tira os óculos escuros, dobra-os com cuidado e diz, mais para si do que para vocês: \"Ele viveria muito, se nunca se conhecesse. Eu sempre soube como a frase terminava. Só não sabia que era eu quem ia terminá-la.\"</p>\n</blockquote>\n<figure class=\"adc-fig\"><img src=\"modules/mesa-alta/assets/reflexos-no-espelho/cenas/epilogo.webp\"></figure>\n<p class=\"adc-cap\">@UUID[Scene.LK7Sc6WWl4o7fT6M]{Abrir a cena: Epílogo}</p>\n\n</div>",
       "markdown": ""
      },
      "image": {},
@@ -5408,7 +5408,7 @@
   },
   {
    "_id": "DeAhLUWQU4DwVnGK",
-   "name": "Battlemap — Suíte 3101 e varanda",
+   "name": "Suíte 3101 e varanda",
    "folder": "tN3vByjM9SZPBWdx",
    "sort": 10,
    "navigation": false,
@@ -6369,7 +6369,7 @@
   },
   {
    "_id": "prPrsMNLwgL1ePIa",
-   "name": "Battlemap — A rua do Amir",
+   "name": "A rua do Amir",
    "folder": "tN3vByjM9SZPBWdx",
    "sort": 20,
    "navigation": false,
@@ -7338,7 +7338,7 @@
   },
   {
    "_id": "FOc2y8JK4715u02J",
-   "name": "Battlemap — O escritório da agência",
+   "name": "O escritório da agência",
    "folder": "tN3vByjM9SZPBWdx",
    "sort": 30,
    "navigation": false,
@@ -8900,7 +8900,7 @@
   },
   {
    "_id": "PZQq2ikzX4ePlZXI",
-   "name": "Battlemap — O estúdio",
+   "name": "Estúdio de gravação",
    "folder": "tN3vByjM9SZPBWdx",
    "sort": 40,
    "navigation": false,
@@ -9807,1258 +9807,8 @@
    }
   },
   {
-   "_id": "B33UdyV0dvOtgXZV",
-   "name": "Battlemap — Rooftop do Aqua Miragem (montagem)",
-   "folder": "tN3vByjM9SZPBWdx",
-   "sort": 50,
-   "navigation": false,
-   "navOrder": 50,
-   "navName": "",
-   "active": false,
-   "img": null,
-   "background": {
-    "src": "modules/mesa-alta/assets/reflexos-no-espelho/mapas/rooftop-do-aqua-miragem.webp",
-    "anchorX": 0.5,
-    "anchorY": 0.5,
-    "offsetX": 0,
-    "offsetY": 0,
-    "fit": "fill",
-    "scaleX": 1,
-    "scaleY": 1,
-    "rotation": 0,
-    "tint": "#ffffff",
-    "alphaThreshold": 0
-   },
-   "foreground": null,
-   "foregroundElevation": 20,
-   "thumb": "modules/mesa-alta/assets/reflexos-no-espelho/thumbs/mapa-rooftop-do-aqua-miragem.webp",
-   "width": 3226,
-   "height": 2151,
-   "padding": 0,
-   "initial": {
-    "x": 1613,
-    "y": 1075,
-    "scale": 0.5
-   },
-   "backgroundColor": "#000000",
-   "grid": {
-    "type": 0,
-    "size": 100,
-    "style": "solidLines",
-    "thickness": 1,
-    "color": "#000000",
-    "alpha": 0.2,
-    "distance": 1,
-    "units": "m"
-   },
-   "tokenVision": true,
-   "fog": {
-    "exploration": true,
-    "overlay": null,
-    "colors": {
-     "explored": null,
-     "unexplored": null
-    }
-   },
-   "environment": {
-    "darknessLevel": 0.7,
-    "darknessLock": false,
-    "globalLight": {
-     "enabled": false,
-     "alpha": 0.5,
-     "bright": false,
-     "color": null,
-     "coloration": 1,
-     "luminosity": 0,
-     "saturation": 0,
-     "contrast": 0,
-     "shadows": 0,
-     "darkness": {
-      "min": 0,
-      "max": 1
-     }
-    },
-    "cycle": true
-   },
-   "weather": "",
-   "drawings": [],
-   "tokens": [
-    {
-     "_id": "hwfHbvYCKZChU3PB",
-     "name": "Segurança da exposição",
-     "actorId": "MM8jYI4JRzSkzsoQ",
-     "actorLink": false,
-     "x": 595,
-     "y": 1173,
-     "elevation": 0,
-     "width": 1,
-     "height": 1,
-     "texture": {
-      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-      "scaleX": 1,
-      "scaleY": 1,
-      "fit": "contain"
-     },
-     "hidden": true,
-     "disposition": -1,
-     "displayName": 20,
-     "displayBars": 0,
-     "lockRotation": true,
-     "rotation": 0,
-     "alpha": 1,
-     "locked": false,
-     "sight": {
-      "enabled": true,
-      "range": 0,
-      "visionMode": "basic"
-     },
-     "ring": {
-      "enabled": false
-     },
-     "delta": {},
-     "flags": {}
-    },
-    {
-     "_id": "CTSO6Hyz4FQzFINb",
-     "name": "Segurança da exposição",
-     "actorId": "MM8jYI4JRzSkzsoQ",
-     "actorLink": false,
-     "x": 837,
-     "y": 837,
-     "elevation": 0,
-     "width": 1,
-     "height": 1,
-     "texture": {
-      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-      "scaleX": 1,
-      "scaleY": 1,
-      "fit": "contain"
-     },
-     "hidden": true,
-     "disposition": -1,
-     "displayName": 20,
-     "displayBars": 0,
-     "lockRotation": true,
-     "rotation": 0,
-     "alpha": 1,
-     "locked": false,
-     "sight": {
-      "enabled": true,
-      "range": 0,
-      "visionMode": "basic"
-     },
-     "ring": {
-      "enabled": false
-     },
-     "delta": {},
-     "flags": {}
-    },
-    {
-     "_id": "em89SxyeYcaZPgkk",
-     "name": "Segurança da exposição",
-     "actorId": "MM8jYI4JRzSkzsoQ",
-     "actorLink": false,
-     "x": 1832,
-     "y": 649,
-     "elevation": 0,
-     "width": 1,
-     "height": 1,
-     "texture": {
-      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-      "scaleX": 1,
-      "scaleY": 1,
-      "fit": "contain"
-     },
-     "hidden": true,
-     "disposition": -1,
-     "displayName": 20,
-     "displayBars": 0,
-     "lockRotation": true,
-     "rotation": 0,
-     "alpha": 1,
-     "locked": false,
-     "sight": {
-      "enabled": true,
-      "range": 0,
-      "visionMode": "basic"
-     },
-     "ring": {
-      "enabled": false
-     },
-     "delta": {},
-     "flags": {}
-    },
-    {
-     "_id": "oRxPVC3zfZzpkVsp",
-     "name": "Segurança da exposição",
-     "actorId": "MM8jYI4JRzSkzsoQ",
-     "actorLink": false,
-     "x": 2504,
-     "y": 1079,
-     "elevation": 0,
-     "width": 1,
-     "height": 1,
-     "texture": {
-      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-      "scaleX": 1,
-      "scaleY": 1,
-      "fit": "contain"
-     },
-     "hidden": true,
-     "disposition": -1,
-     "displayName": 20,
-     "displayBars": 0,
-     "lockRotation": true,
-     "rotation": 0,
-     "alpha": 1,
-     "locked": false,
-     "sight": {
-      "enabled": true,
-      "range": 0,
-      "visionMode": "basic"
-     },
-     "ring": {
-      "enabled": false
-     },
-     "delta": {},
-     "flags": {}
-    },
-    {
-     "_id": "KwXk44BAiHoJKJ5L",
-     "name": "Segurança da exposição",
-     "actorId": "MM8jYI4JRzSkzsoQ",
-     "actorLink": false,
-     "x": 2638,
-     "y": 1563,
-     "elevation": 0,
-     "width": 1,
-     "height": 1,
-     "texture": {
-      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-      "scaleX": 1,
-      "scaleY": 1,
-      "fit": "contain"
-     },
-     "hidden": true,
-     "disposition": -1,
-     "displayName": 20,
-     "displayBars": 0,
-     "lockRotation": true,
-     "rotation": 0,
-     "alpha": 1,
-     "locked": false,
-     "sight": {
-      "enabled": true,
-      "range": 0,
-      "visionMode": "basic"
-     },
-     "ring": {
-      "enabled": false
-     },
-     "delta": {},
-     "flags": {}
-    },
-    {
-     "_id": "26KeVaLKYyL1v2TZ",
-     "name": "Segurança da exposição",
-     "actorId": "MM8jYI4JRzSkzsoQ",
-     "actorLink": false,
-     "x": 326,
-     "y": 1563,
-     "elevation": 0,
-     "width": 1,
-     "height": 1,
-     "texture": {
-      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
-      "scaleX": 1,
-      "scaleY": 1,
-      "fit": "contain"
-     },
-     "hidden": true,
-     "disposition": -1,
-     "displayName": 20,
-     "displayBars": 0,
-     "lockRotation": true,
-     "rotation": 0,
-     "alpha": 1,
-     "locked": false,
-     "sight": {
-      "enabled": true,
-      "range": 0,
-      "visionMode": "basic"
-     },
-     "ring": {
-      "enabled": false
-     },
-     "delta": {},
-     "flags": {}
-    }
-   ],
-   "lights": [
-    {
-     "_id": "udd1tHNx5rmnzm7H",
-     "x": 1667,
-     "y": 1035,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.2,
-      "angle": 360,
-      "bright": 2,
-      "color": "#ffffff",
-      "coloration": 1,
-      "dim": 4,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "bq0fcQ4dYMPHyplY",
-     "x": 1344,
-     "y": 618,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.3,
-      "angle": 360,
-      "bright": 1,
-      "color": "#b57bff",
-      "coloration": 1,
-      "dim": 5,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "eTgW5qq58Hkz4gTK",
-     "x": 1989,
-     "y": 618,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.3,
-      "angle": 360,
-      "bright": 1,
-      "color": "#b57bff",
-      "coloration": 1,
-      "dim": 5,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "ys02QlCGmHkdE3I0",
-     "x": 1667,
-     "y": 484,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.3,
-      "angle": 360,
-      "bright": 1,
-      "color": "#ff3fa4",
-      "coloration": 1,
-      "dim": 6,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "7QB6TnOSNY21YhS2",
-     "x": 1667,
-     "y": 1344,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.3,
-      "angle": 360,
-      "bright": 2,
-      "color": "#3fd0dc",
-      "coloration": 1,
-      "dim": 8,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "wave",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "Jrwdzyb3q85KYQ1m",
-     "x": 1613,
-     "y": 1613,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.3,
-      "angle": 360,
-      "bright": 2,
-      "color": "#3fd0dc",
-      "coloration": 1,
-      "dim": 8,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "wave",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "jxbbfcDLNQ4ZxLrP",
-     "x": 2850,
-     "y": 806,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 1,
-      "color": "#ffb347",
-      "coloration": 1,
-      "dim": 4,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "KVVCJm6OBZo4W9mK",
-     "x": 739,
-     "y": 659,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "lhZpNPKTdlrXKEz0",
-     "x": 1196,
-     "y": 806,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "1n305plrxysYesk9",
-     "x": 2151,
-     "y": 820,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "uZF4qLlAcjtrZPpX",
-     "x": 2473,
-     "y": 753,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "KrpO9vHpCsPYfBEK",
-     "x": 1231,
-     "y": 1016,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "zypObiaaLMreQMHe",
-     "x": 2110,
-     "y": 1022,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "Zp9IAqwiFdeN3DJH",
-     "x": 1175,
-     "y": 1183,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "oCorOrggFYp3XPzT",
-     "x": 2210,
-     "y": 1183,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 0,
-      "color": "#ffcc66",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": "torch",
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "FGsxnQxb3CsDgf3V",
-     "x": 841,
-     "y": 1358,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 1,
-      "color": "#ffb347",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    },
-    {
-     "_id": "973w2m2hbLN0N2In",
-     "x": 2602,
-     "y": 1344,
-     "rotation": 0,
-     "walls": true,
-     "vision": false,
-     "elevation": 0,
-     "hidden": false,
-     "config": {
-      "negative": false,
-      "priority": 0,
-      "alpha": 0.25,
-      "angle": 360,
-      "bright": 1,
-      "color": "#ffb347",
-      "coloration": 1,
-      "dim": 2,
-      "attenuation": 0.5,
-      "luminosity": 0.5,
-      "saturation": 0,
-      "contrast": 0,
-      "shadows": 0,
-      "animation": {
-       "type": null,
-       "speed": 3,
-       "intensity": 3,
-       "reverse": false
-      },
-      "darkness": {
-       "min": 0,
-       "max": 1
-      }
-     },
-     "flags": {}
-    }
-   ],
-   "notes": [],
-   "sounds": [],
-   "regions": [],
-   "templates": [],
-   "tiles": [],
-   "walls": [
-    {
-     "_id": "7V4u5ywKFZOpSYyR",
-     "c": [
-      255,
-      444,
-      255,
-      363
-     ],
-     "move": 20,
-     "sight": 0,
-     "light": 0,
-     "sound": 0,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "TdjBh6h3tVxI3zxP",
-     "c": [
-      255,
-      363,
-      2997,
-      363
-     ],
-     "move": 20,
-     "sight": 0,
-     "light": 0,
-     "sound": 0,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "8G2LQAXoAHCQI4TU",
-     "c": [
-      2997,
-      363,
-      2997,
-      1586
-     ],
-     "move": 20,
-     "sight": 0,
-     "light": 0,
-     "sound": 0,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "k2VTBE0tlDvSJ6bt",
-     "c": [
-      2997,
-      1586,
-      2823,
-      1769
-     ],
-     "move": 20,
-     "sight": 0,
-     "light": 0,
-     "sound": 0,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "81FMaNx56QP2lKvs",
-     "c": [
-      2823,
-      1769,
-      255,
-      1769
-     ],
-     "move": 20,
-     "sight": 0,
-     "light": 0,
-     "sound": 0,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "DTIkftBFSjRUd77G",
-     "c": [
-      255,
-      1769,
-      255,
-      1479
-     ],
-     "move": 20,
-     "sight": 0,
-     "light": 0,
-     "sound": 0,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "QlCQ4ZAu5p45DsGA",
-     "c": [
-      148,
-      444,
-      565,
-      444
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "m6zUetYH9nQJA29a",
-     "c": [
-      565,
-      444,
-      565,
-      672
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "cHS35aJzwCdBLWYf",
-     "c": [
-      565,
-      672,
-      565,
-      780
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 1,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "ltlarER9dsnkru5i",
-     "c": [
-      565,
-      780,
-      565,
-      1089
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "Nqvkfs8uzzAdLl80",
-     "c": [
-      565,
-      1089,
-      565,
-      1242
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 1,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "CPUHXh7bIcjPFsph",
-     "c": [
-      565,
-      1242,
-      565,
-      1479
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "bXRzBnKdaoBvml5a",
-     "c": [
-      565,
-      1479,
-      148,
-      1479
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    },
-    {
-     "_id": "Asdv67hufEmjyqpE",
-     "c": [
-      148,
-      1479,
-      148,
-      444
-     ],
-     "move": 20,
-     "sight": 20,
-     "light": 20,
-     "sound": 20,
-     "door": 0,
-     "ds": 0,
-     "dir": 0,
-     "threshold": {
-      "light": null,
-      "sight": null,
-      "sound": null,
-      "attenuation": false
-     },
-     "flags": {}
-    }
-   ],
-   "playlist": null,
-   "playlistSound": null,
-   "journal": null,
-   "journalEntryPage": null,
-   "ownership": {
-    "default": 0
-   },
-   "flags": {},
-   "_stats": {
-    "systemId": "city-of-mist",
-    "systemVersion": "4.5.3",
-    "coreVersion": "13.351",
-    "createdTime": 1795500000000,
-    "modifiedTime": 1795500000000,
-    "lastModifiedBy": null,
-    "compendiumSource": null,
-    "duplicateSource": null
-   }
-  },
-  {
    "_id": "MBjabds9WZKhRmAh",
-   "name": "Battlemap — Rooftop do Aqua Miragem (lançamento)",
+   "name": "Rooftop do Aqua Miragem — lançamento",
    "folder": "tN3vByjM9SZPBWdx",
    "sort": 60,
    "navigation": false,
@@ -12235,6 +10985,1188 @@
       1479,
       148,
       444
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    }
+   ],
+   "playlist": null,
+   "playlistSound": null,
+   "journal": null,
+   "journalEntryPage": null,
+   "ownership": {
+    "default": 0
+   },
+   "flags": {},
+   "_stats": {
+    "systemId": "city-of-mist",
+    "systemVersion": "4.5.3",
+    "coreVersion": "13.351",
+    "createdTime": 1795500000000,
+    "modifiedTime": 1795500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null
+   }
+  },
+  {
+   "_id": "B33UdyV0dvOtgXZV",
+   "name": "Rooftop do Aqua Miragem — montagem",
+   "folder": "tN3vByjM9SZPBWdx",
+   "sort": 50,
+   "navigation": false,
+   "navOrder": 50,
+   "navName": "",
+   "active": false,
+   "img": null,
+   "background": {
+    "src": "modules/mesa-alta/assets/reflexos-no-espelho/mapas/rooftop-do-aqua-miragem-montagem.webp",
+    "anchorX": 0.5,
+    "anchorY": 0.5,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+   },
+   "foreground": null,
+   "foregroundElevation": 20,
+   "thumb": "modules/mesa-alta/assets/reflexos-no-espelho/thumbs/mapa-rooftop-do-aqua-miragem-montagem.webp",
+   "width": 3226,
+   "height": 2151,
+   "padding": 0,
+   "initial": {
+    "x": 1613,
+    "y": 1075,
+    "scale": 0.5
+   },
+   "backgroundColor": "#000000",
+   "grid": {
+    "type": 0,
+    "size": 100,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 1,
+    "units": "m"
+   },
+   "tokenVision": true,
+   "fog": {
+    "exploration": true,
+    "overlay": null,
+    "colors": {
+     "explored": null,
+     "unexplored": null
+    }
+   },
+   "environment": {
+    "darknessLevel": 0.7,
+    "darknessLock": false,
+    "globalLight": {
+     "enabled": false,
+     "alpha": 0.5,
+     "bright": false,
+     "color": null,
+     "coloration": 1,
+     "luminosity": 0,
+     "saturation": 0,
+     "contrast": 0,
+     "shadows": 0,
+     "darkness": {
+      "min": 0,
+      "max": 1
+     }
+    },
+    "cycle": true
+   },
+   "weather": "",
+   "drawings": [],
+   "tokens": [
+    {
+     "_id": "hwfHbvYCKZChU3PB",
+     "name": "Segurança da exposição",
+     "actorId": "MM8jYI4JRzSkzsoQ",
+     "actorLink": false,
+     "x": 756,
+     "y": 837,
+     "elevation": 0,
+     "width": 1,
+     "height": 1,
+     "texture": {
+      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "fit": "contain"
+     },
+     "hidden": true,
+     "disposition": -1,
+     "displayName": 20,
+     "displayBars": 0,
+     "lockRotation": true,
+     "rotation": 0,
+     "alpha": 1,
+     "locked": false,
+     "sight": {
+      "enabled": true,
+      "range": 0,
+      "visionMode": "basic"
+     },
+     "ring": {
+      "enabled": false
+     },
+     "delta": {},
+     "flags": {}
+    },
+    {
+     "_id": "CTSO6Hyz4FQzFINb",
+     "name": "Segurança da exposição",
+     "actorId": "MM8jYI4JRzSkzsoQ",
+     "actorLink": false,
+     "x": 1455,
+     "y": 730,
+     "elevation": 0,
+     "width": 1,
+     "height": 1,
+     "texture": {
+      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "fit": "contain"
+     },
+     "hidden": true,
+     "disposition": -1,
+     "displayName": 20,
+     "displayBars": 0,
+     "lockRotation": true,
+     "rotation": 0,
+     "alpha": 1,
+     "locked": false,
+     "sight": {
+      "enabled": true,
+      "range": 0,
+      "visionMode": "basic"
+     },
+     "ring": {
+      "enabled": false
+     },
+     "delta": {},
+     "flags": {}
+    },
+    {
+     "_id": "em89SxyeYcaZPgkk",
+     "name": "Segurança da exposição",
+     "actorId": "MM8jYI4JRzSkzsoQ",
+     "actorLink": false,
+     "x": 2316,
+     "y": 837,
+     "elevation": 0,
+     "width": 1,
+     "height": 1,
+     "texture": {
+      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "fit": "contain"
+     },
+     "hidden": true,
+     "disposition": -1,
+     "displayName": 20,
+     "displayBars": 0,
+     "lockRotation": true,
+     "rotation": 0,
+     "alpha": 1,
+     "locked": false,
+     "sight": {
+      "enabled": true,
+      "range": 0,
+      "visionMode": "basic"
+     },
+     "ring": {
+      "enabled": false
+     },
+     "delta": {},
+     "flags": {}
+    },
+    {
+     "_id": "oRxPVC3zfZzpkVsp",
+     "name": "Segurança da exposição",
+     "actorId": "MM8jYI4JRzSkzsoQ",
+     "actorLink": false,
+     "x": 2638,
+     "y": 1348,
+     "elevation": 0,
+     "width": 1,
+     "height": 1,
+     "texture": {
+      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "fit": "contain"
+     },
+     "hidden": true,
+     "disposition": -1,
+     "displayName": 20,
+     "displayBars": 0,
+     "lockRotation": true,
+     "rotation": 0,
+     "alpha": 1,
+     "locked": false,
+     "sight": {
+      "enabled": true,
+      "range": 0,
+      "visionMode": "basic"
+     },
+     "ring": {
+      "enabled": false
+     },
+     "delta": {},
+     "flags": {}
+    },
+    {
+     "_id": "KwXk44BAiHoJKJ5L",
+     "name": "Segurança da exposição",
+     "actorId": "MM8jYI4JRzSkzsoQ",
+     "actorLink": false,
+     "x": 622,
+     "y": 1348,
+     "elevation": 0,
+     "width": 1,
+     "height": 1,
+     "texture": {
+      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "fit": "contain"
+     },
+     "hidden": true,
+     "disposition": -1,
+     "displayName": 20,
+     "displayBars": 0,
+     "lockRotation": true,
+     "rotation": 0,
+     "alpha": 1,
+     "locked": false,
+     "sight": {
+      "enabled": true,
+      "range": 0,
+      "visionMode": "basic"
+     },
+     "ring": {
+      "enabled": false
+     },
+     "delta": {},
+     "flags": {}
+    },
+    {
+     "_id": "26KeVaLKYyL1v2TZ",
+     "name": "Segurança da exposição",
+     "actorId": "MM8jYI4JRzSkzsoQ",
+     "actorLink": false,
+     "x": 1832,
+     "y": 1133,
+     "elevation": 0,
+     "width": 1,
+     "height": 1,
+     "texture": {
+      "src": "modules/mesa-alta/assets/reflexos-no-espelho/tokens/seguranca-exposicao.webp",
+      "scaleX": 1,
+      "scaleY": 1,
+      "fit": "contain"
+     },
+     "hidden": true,
+     "disposition": -1,
+     "displayName": 20,
+     "displayBars": 0,
+     "lockRotation": true,
+     "rotation": 0,
+     "alpha": 1,
+     "locked": false,
+     "sight": {
+      "enabled": true,
+      "range": 0,
+      "visionMode": "basic"
+     },
+     "ring": {
+      "enabled": false
+     },
+     "delta": {},
+     "flags": {}
+    }
+   ],
+   "lights": [
+    {
+     "_id": "udd1tHNx5rmnzm7H",
+     "x": 1290,
+     "y": 699,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.25,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ffb347",
+      "coloration": 1,
+      "dim": 4,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "bq0fcQ4dYMPHyplY",
+     "x": 2124,
+     "y": 726,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.25,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ffb347",
+      "coloration": 1,
+      "dim": 4,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "eTgW5qq58Hkz4gTK",
+     "x": 2366,
+     "y": 1102,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.25,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ffe3a8",
+      "coloration": 1,
+      "dim": 3,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "ys02QlCGmHkdE3I0",
+     "x": 2581,
+     "y": 645,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.2,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ffe3a8",
+      "coloration": 1,
+      "dim": 3,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "7QB6TnOSNY21YhS2",
+     "x": 2850,
+     "y": 968,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.25,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ff3fa4",
+      "coloration": 1,
+      "dim": 3,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "Jrwdzyb3q85KYQ1m",
+     "x": 1653,
+     "y": 1505,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.3,
+      "angle": 360,
+      "bright": 2,
+      "color": "#3fd0dc",
+      "coloration": 1,
+      "dim": 8,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": "wave",
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "jxbbfcDLNQ4ZxLrP",
+     "x": 699,
+     "y": 1102,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.2,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ffb347",
+      "coloration": 1,
+      "dim": 3,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "KVVCJm6OBZo4W9mK",
+     "x": 2769,
+     "y": 1344,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.2,
+      "angle": 360,
+      "bright": 1,
+      "color": "#ffb347",
+      "coloration": 1,
+      "dim": 3,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": null,
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "lhZpNPKTdlrXKEz0",
+     "x": 927,
+     "y": 282,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.35,
+      "angle": 360,
+      "bright": 0,
+      "color": "#ff2a2a",
+      "coloration": 1,
+      "dim": 2,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": "pulse",
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    },
+    {
+     "_id": "1n305plrxysYesk9",
+     "x": 2433,
+     "y": 282,
+     "rotation": 0,
+     "walls": true,
+     "vision": false,
+     "elevation": 0,
+     "hidden": false,
+     "config": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.35,
+      "angle": 360,
+      "bright": 0,
+      "color": "#ff2a2a",
+      "coloration": 1,
+      "dim": 2,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+       "type": "pulse",
+       "speed": 3,
+       "intensity": 3,
+       "reverse": false
+      },
+      "darkness": {
+       "min": 0,
+       "max": 1
+      }
+     },
+     "flags": {}
+    }
+   ],
+   "notes": [],
+   "sounds": [],
+   "regions": [],
+   "templates": [],
+   "tiles": [],
+   "walls": [
+    {
+     "_id": "7V4u5ywKFZOpSYyR",
+     "c": [
+      202,
+      457,
+      202,
+      376
+     ],
+     "move": 20,
+     "sight": 0,
+     "light": 0,
+     "sound": 0,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "TdjBh6h3tVxI3zxP",
+     "c": [
+      202,
+      376,
+      3105,
+      376
+     ],
+     "move": 20,
+     "sight": 0,
+     "light": 0,
+     "sound": 0,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "8G2LQAXoAHCQI4TU",
+     "c": [
+      3105,
+      376,
+      3105,
+      1586
+     ],
+     "move": 20,
+     "sight": 0,
+     "light": 0,
+     "sound": 0,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "k2VTBE0tlDvSJ6bt",
+     "c": [
+      3105,
+      1586,
+      2930,
+      1850
+     ],
+     "move": 20,
+     "sight": 0,
+     "light": 0,
+     "sound": 0,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "81FMaNx56QP2lKvs",
+     "c": [
+      2930,
+      1850,
+      202,
+      1850
+     ],
+     "move": 20,
+     "sight": 0,
+     "light": 0,
+     "sound": 0,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "DTIkftBFSjRUd77G",
+     "c": [
+      202,
+      1850,
+      202,
+      1586
+     ],
+     "move": 20,
+     "sight": 0,
+     "light": 0,
+     "sound": 0,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "QlCQ4ZAu5p45DsGA",
+     "c": [
+      161,
+      820,
+      161,
+      457
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "m6zUetYH9nQJA29a",
+     "c": [
+      161,
+      457,
+      524,
+      457
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "8FO0bvqgEzRPdLGm",
+     "c": [
+      524,
+      457,
+      524,
+      712
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "cHS35aJzwCdBLWYf",
+     "c": [
+      524,
+      712,
+      524,
+      793
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 1,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "ltlarER9dsnkru5i",
+     "c": [
+      524,
+      793,
+      524,
+      1129
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "Nqvkfs8uzzAdLl80",
+     "c": [
+      524,
+      1129,
+      524,
+      1304
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 1,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "CPUHXh7bIcjPFsph",
+     "c": [
+      524,
+      1304,
+      524,
+      1546
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "bXRzBnKdaoBvml5a",
+     "c": [
+      524,
+      1546,
+      94,
+      1546
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "Asdv67hufEmjyqpE",
+     "c": [
+      94,
+      1546,
+      94,
+      820
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "I2vEEkK7tkwzMoZP",
+     "c": [
+      94,
+      820,
+      161,
+      820
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "9k5Essw4tFDs1LZC",
+     "c": [
+      2675,
+      484,
+      3024,
+      484
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "aanrwRgUSR3uLevX",
+     "c": [
+      3024,
+      484,
+      3024,
+      801
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "hBgayXS0JskQOY42",
+     "c": [
+      3024,
+      801,
+      2675,
+      801
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "zuBvf0a8096gWeSG",
+     "c": [
+      2688,
+      806,
+      3065,
+      806
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "Bau4SUDESITGt2G8",
+     "c": [
+      3065,
+      806,
+      3065,
+      1129
+     ],
+     "move": 20,
+     "sight": 20,
+     "light": 20,
+     "sound": 20,
+     "door": 0,
+     "ds": 0,
+     "dir": 0,
+     "threshold": {
+      "light": null,
+      "sight": null,
+      "sound": null,
+      "attenuation": false
+     },
+     "flags": {}
+    },
+    {
+     "_id": "GTpk4898ZUA1yqvO",
+     "c": [
+      3065,
+      1129,
+      2688,
+      1129
      ],
      "move": 20,
      "sight": 20,

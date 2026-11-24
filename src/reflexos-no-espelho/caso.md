@@ -646,6 +646,12 @@ illustration for a tabletop RPG book, noir, suspense, pristine white contemporar
 illustration for a tabletop RPG book, noir, suspense, luxury hotel rooftop at night during the setup of an art performance, scaffolding, speakers and thick cables on the floor, a giant screen covered by a flapping black tarp, a smoked-glass technical booth, a glowing infinity pool lit from below, security guards in black suits with earpieces patrolling in pairs, tense secretive mood --ar 16:9 --style raw
 ```
 
+> **Arte — Rooftop do Aqua Miragem — montagem (battlemap)**
+
+```text
+illustrated top-down orthographic battlemap for a tabletop RPG, camera directly overhead at 90 degrees, flat 2D floor plan, luxury hotel rooftop seen from above during the setup of an art event, a stage covered by tarps, a truss frame with a large covered screen, flight cases, crates and cable reels on the floor, two open shipping containers with equipment, a work table with blueprints, a stair and elevator core with doors, an infinity pool along one edge, glass railings on all edges, noir, suspense --ar 3:2 --style raw --no perspective, isometric, 3d, front view, side view, elevation
+```
+
 #### 3.5 O lançamento — a *Espelho*
 
 **Clima:** festa no rooftop, champanhe, celebridades, flashes, música eletrônica baixa, a piscina refletindo o telão. **Obstáculo:** a Segurança da exposição em volume normal, a plateia inteira filmando e o especial Mártir de Tezca: qualquer ataque visível o torna mais forte.

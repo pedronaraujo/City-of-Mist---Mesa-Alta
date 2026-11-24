@@ -17,7 +17,7 @@ Um bilionário cai em chamas diante de cem testemunhas que não lembram de nada.
 
 Nico Valença tinha dois milhões de seguidores e nenhum espelho em casa. Três dias depois de cair na piscina de borda infinita do Hotel Aqua Miragem, ele faz uma live. Um terapeuta que nunca teve celular diz que aquela não é a voz dele. E, num rooftop da Cidade, alguém prepara a obra de arte do ano.
 
-- Guia do MC em journal (13 páginas, com o iceberg do caso), 16 cenas de ambientação e 6 battlemaps com paredes, portas e luzes (o rooftop vem em duas versões: montagem e lançamento).
+- Guia do MC em journal (13 páginas, com o iceberg do caso), 16 cenas de ambientação e 6 battlemaps com paredes, portas e luzes (o rooftop tem um mapa para a montagem e outro para o lançamento).
 - 7 Perigos com espectros, travas e movimentos, 7 NPCs e tokens já posicionados (adversários ocultos).
 - Apêndice no Guia do MC para ligar o caso ao Asas de Cera numa campanha.
 

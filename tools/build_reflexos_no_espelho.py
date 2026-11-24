@@ -288,7 +288,7 @@ for i, (k, n, img, w, h, wx) in enumerate(AMB):
 # --- Suíte 3101 e varanda (2688x1792; exibição 1200 -> fator 2.24)
 s = 2688 / 1200
 k = "map-suite"
-SCENES.append(scene(k, "Battlemap — Suíte 3101 e varanda", "map", f"{AS}/mapas/suite-3101-e-varanda.webp", 2688, 1792,
+SCENES.append(scene(k, "Suíte 3101 e varanda", "map", f"{AS}/mapas/suite-3101-e-varanda.webp", 2688, 1792,
     grid=100, battle=True, darkness=0.5, sort=10,
     walls=walls(k, s, [
         ("wall", [(45, 470), (45, 68), (440, 68)]), ("door", [(440, 68), (550, 68)]),
@@ -309,7 +309,7 @@ SCENES.append(scene(k, "Battlemap — Suíte 3101 e varanda", "map", f"{AS}/mapa
 
 # --- A rua do Amir (2688x1792)
 k = "map-rua"
-SCENES.append(scene(k, "Battlemap — A rua do Amir", "map", f"{AS}/mapas/a-rua-do-amir.webp", 2688, 1792,
+SCENES.append(scene(k, "A rua do Amir", "map", f"{AS}/mapas/a-rua-do-amir.webp", 2688, 1792,
     grid=90, battle=True, darkness=0.55, sort=20,
     walls=walls(k, s, [
         ("wall", [(100, 300), (430, 300), (430, 85), (745, 85), (745, 300), (965, 300)]),
@@ -328,7 +328,7 @@ SCENES.append(scene(k, "Battlemap — A rua do Amir", "map", f"{AS}/mapas/a-rua-
 # --- O escritório da agência (4096x2731; fator 3.4133)
 s = 4096 / 1200
 k = "map-agencia"
-SCENES.append(scene(k, "Battlemap — O escritório da agência", "map", f"{AS}/mapas/o-escritorio-da-agencia.webp", 4096, 2731,
+SCENES.append(scene(k, "O escritório da agência", "map", f"{AS}/mapas/o-escritorio-da-agencia.webp", 4096, 2731,
     grid=110, battle=True, darkness=0.65, sort=30,
     walls=walls(k, s, [
         ("wall", [(40, 95), (1160, 95), (1160, 710), (40, 710), (40, 95)]),
@@ -359,7 +359,7 @@ SCENES.append(scene(k, "Battlemap — O escritório da agência", "map", f"{AS}/
 # --- O estúdio (2688x1792; fator 2.24)
 s = 2688 / 1200
 k = "map-estudio"
-SCENES.append(scene(k, "Battlemap — O estúdio", "map", f"{AS}/mapas/o-estudio.webp", 2688, 1792,
+SCENES.append(scene(k, "Estúdio de gravação", "map", f"{AS}/mapas/o-estudio.webp", 2688, 1792,
     grid=100, battle=True, darkness=0.55, sort=40,
     walls=walls(k, s, [
         ("wall", [(1005, 95), (45, 95), (45, 660), (570, 660)]), ("door", [(570, 660), (630, 660)]),
@@ -388,17 +388,33 @@ ROOF_LIGHTS = [(620, 385, 4, 2, "#ffffff", 0.2, None), (500, 230, 5, 1, "#b57bff
                (800, 305, 2, 0, "#ffcc66", 0.25, "torch"), (920, 280, 2, 0, "#ffcc66", 0.25, "torch"), (458, 378, 2, 0, "#ffcc66", 0.25, "torch"),
                (785, 380, 2, 0, "#ffcc66", 0.25, "torch"), (437, 440, 2, 0, "#ffcc66", 0.25, "torch"), (822, 440, 2, 0, "#ffcc66", 0.25, "torch"),
                (313, 505, 2, 1, "#ffb347", 0.25, None), (968, 500, 2, 1, "#ffb347", 0.25, None)]
-for k, n, sort, darkness, toks in [
-        ("map-montagem", "Battlemap — Rooftop do Aqua Miragem (montagem)", 50, 0.7,
-         [("seg-montagem", 240, 455, True), ("seg-montagem", 330, 330, True), ("seg-montagem", 700, 260, True),
-          ("seg-montagem", 950, 420, True), ("seg-montagem", 1000, 600, True), ("seg-montagem", 140, 600, True)]),
-        ("map-lancamento", "Battlemap — Rooftop do Aqua Miragem (lançamento)", 60, 0.45,
-         [("tezca", 620, 375, False), ("elisa", 560, 440, False), ("seg-lancamento", 240, 455, True),
-          ("seg-lancamento", 950, 420, True), ("seg-lancamento", 700, 255, True)])]:
-    SCENES.append(scene(k, n, "map", f"{AS}/mapas/rooftop-do-aqua-miragem.webp", 3226, 2151, grid=100, battle=True,
-                        darkness=darkness, sort=sort, walls=walls(k, s, ROOF_WALLS),
-                        lights=[L(k, i, x, y, s, d, b, c, a, an) for i, (x, y, d, b, c, a, an) in enumerate(ROOF_LIGHTS)],
-                        tokens=[T(k, i, a_, x, y, s, 100, h) for i, (a_, x, y, h) in enumerate(toks)]))
+k = "map-lancamento"
+SCENES.append(scene(k, "Rooftop do Aqua Miragem — lançamento", "map", f"{AS}/mapas/rooftop-do-aqua-miragem.webp", 3226, 2151,
+    grid=100, battle=True, darkness=0.45, sort=60, walls=walls(k, s, ROOF_WALLS),
+    lights=[L(k, i, x, y, s, d, b, c, a, an) for i, (x, y, d, b, c, a, an) in enumerate(ROOF_LIGHTS)],
+    tokens=[T(k, i, a_, x, y, s, 100, h) for i, (a_, x, y, h) in enumerate(
+        [("tezca", 620, 375, False), ("elisa", 560, 440, False), ("seg-lancamento", 240, 455, True),
+         ("seg-lancamento", 950, 420, True), ("seg-lancamento", 700, 255, True)])]))
+
+# Rooftop durante a montagem (mapa próprio, 3226x2151)
+k = "map-montagem"
+SCENES.append(scene(k, "Rooftop do Aqua Miragem — montagem", "map", f"{AS}/mapas/rooftop-do-aqua-miragem-montagem.webp", 3226, 2151,
+    grid=100, battle=True, darkness=0.7, sort=50,
+    walls=walls(k, s, [
+        ("rail", [(75, 170), (75, 140), (1155, 140), (1155, 590), (1090, 688), (75, 688), (75, 590)]),
+        ("wall", [(60, 305), (60, 170), (195, 170), (195, 265)]), ("door", [(195, 265), (195, 295)]),
+        ("wall", [(195, 295), (195, 420)]), ("door", [(195, 420), (195, 485)]),
+        ("wall", [(195, 485), (195, 575), (35, 575), (35, 305), (60, 305)]),
+        ("wall", [(995, 180), (1125, 180), (1125, 298), (995, 298)]),
+        ("wall", [(1000, 300), (1140, 300), (1140, 420), (1000, 420)]),
+    ]),
+    lights=[L(k, 0, 480, 260, s, 4, 1, "#ffb347", 0.25), L(k, 1, 790, 270, s, 4, 1, "#ffb347", 0.25),
+            L(k, 2, 880, 410, s, 3, 1, "#ffe3a8", 0.25), L(k, 3, 960, 240, s, 3, 1, "#ffe3a8", 0.2),
+            L(k, 4, 1060, 360, s, 3, 1, "#ff3fa4", 0.25), L(k, 5, 615, 560, s, 8, 2, "#3fd0dc", 0.3, "wave"),
+            L(k, 6, 260, 410, s, 3, 1, "#ffb347", 0.2), L(k, 7, 1030, 500, s, 3, 1, "#ffb347", 0.2),
+            L(k, 8, 345, 105, s, 2, 0, "#ff2a2a", 0.35, "pulse"), L(k, 9, 905, 105, s, 2, 0, "#ff2a2a", 0.35, "pulse")],
+    tokens=[T(k, i, "seg-montagem", x, y, s, 100, True) for i, (x, y) in enumerate(
+        [(300, 330), (560, 290), (880, 330), (1000, 520), (250, 520), (700, 440)])]))
 SC = {sc["_id"]: sc for sc in SCENES}
 S = {k: gid("scene", k) for k in ["capa", "abertura", "consultorio", "varanda", "piscina", "vigilia", "cerco", "live", "santuario",
                                    "agencia", "estudio", "galeria", "montagem", "lancamento", "epilogo", "contracapa", "map-suite",
@@ -420,7 +436,8 @@ ART_SCENE = {"a-piscina-de-borda-infinita-ambientacao": "piscina", "a-vigilia-am
              "o-consultorio-de-tiresias-ambientacao": "consultorio",
              "suite-3101-e-varanda-battlemap": "map-suite", "a-rua-do-amir-battlemap": "map-rua",
              "o-escritorio-da-agencia-battlemap": "map-agencia", "o-estudio-battlemap": "map-estudio",
-             "rooftop-do-aqua-miragem-battlemap": "map-lancamento"}
+             "rooftop-do-aqua-miragem-battlemap": "map-lancamento",
+             "rooftop-do-aqua-miragem-montagem-battlemap": "map-montagem"}
 
 
 def link_scene(key):
@@ -440,7 +457,7 @@ def fig(m):
     sc = SC[S[key]]
     src = sc["background"]["src"]
     cls = "adc-fig adc-map" if key.startswith("map-") else "adc-fig"
-    extra = link_scene("map-montagem") if key == "map-lancamento" else ""
+    extra = ""
     return f'\n<figure class="{cls}"><img src="{src}"></figure>{link_scene(key)}{extra}\n'
 
 
@@ -488,7 +505,7 @@ html = html.replace("<h3>Segurança da exposição (cenas 3.4 e 3.5)</h3>",
                     "<h3>Segurança da exposição (cenas 3.4 e 3.5)</h3>" + actor_link("seg-montagem", "Abrir a ficha (montagem)")
                     + actor_link("seg-lancamento", "Abrir a ficha (lançamento)"), 1)
 # cenas sem arte própria: link direto
-for h4, key in [("3.4 A montagem", "map-montagem"), ("1.1 O consultório", "consultorio")]:
+for h4, key in [("1.1 O consultório", "consultorio")]:
     html = re.sub(r"(<h4>" + re.escape(h4) + r"[^<]*</h4>)", lambda m: m.group(1) + link_scene(key), html, count=1)
 
 OPEN = {"Visão geral": "abertura-do-caso", "Por trás das cortinas": "a-varanda-da-suite-3101", "Ganchos": "o-consultorio-de-tiresias",
