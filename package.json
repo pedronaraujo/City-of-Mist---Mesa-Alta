@@ -1,6 +1,6 @@
 {
-  "name": "city-of-mist---asas-de-cera",
-  "version": "1.0.0",
+  "name": "city-of-mist-mesa-alta",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pedronaraujo/city-of-mist---asas-de-cera.git"
+    "url": "git+https://github.com/pedronaraujo/City-of-Mist---Mesa-Alta.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pedronaraujo/city-of-mist---asas-de-cera/issues"
+    "url": "https://github.com/pedronaraujo/City-of-Mist---Mesa-Alta/issues"
   },
-  "homepage": "https://github.com/pedronaraujo/city-of-mist---asas-de-cera#readme",
+  "homepage": "https://github.com/pedronaraujo/City-of-Mist---Mesa-Alta#readme",
   "dependencies": {
     "@foundryvtt/foundryvtt-cli": "^3.0.5"
   }

@@ -6,7 +6,7 @@ import hashlib, json, os, re, unicodedata
 import markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MOD = "modules/asas-de-cera"
+MOD = "modules/mesa-alta"
 OUT = os.path.join(ROOT, "src", "packs", "asas-de-cera")
 STATS = {"systemId": "city-of-mist", "systemVersion": "4.5.3", "coreVersion": "13.351",
          "createdTime": 1795100000000, "modifiedTime": 1795100000000, "lastModifiedBy": None,
@@ -62,7 +62,7 @@ def move(owner, sub, name, text, hide=False):
 def actor(key, name, fold, token, portrait=None, mythos="", logos="", short="", bio="", spectra=(), moves=(),
           collective=0, disposition=-1):
     aid = gid("actor", key)
-    img = f"{MOD}/assets/retratos/{portrait}.webp" if portrait else f"{MOD}/assets/tokens/{token}.webp"
+    img = f"{MOD}/assets/asas-de-cera/retratos/{portrait}.webp" if portrait else f"{MOD}/assets/asas-de-cera/tokens/{token}.webp"
     items = [spectrum(key, n, t) for n, t in spectra] + [move(key, *m) for m in moves]
     return {
         "_id": aid, "name": name, "type": "threat", "img": img, "folder": F[fold]["_id"], "sort": 0,
@@ -73,7 +73,7 @@ def actor(key, name, fold, token, portrait=None, mythos="", logos="", short="", 
                    "defaultTags": [], "defaultStatuses": []},
         "prototypeToken": {
             "name": name.split(" — ")[0], "displayName": 20, "actorLink": collective == 0, "appendNumber": collective > 0,
-            "texture": {"src": f"{MOD}/assets/tokens/{token}.webp", "scaleX": 1, "scaleY": 1, "fit": "contain"},
+            "texture": {"src": f"{MOD}/assets/asas-de-cera/tokens/{token}.webp", "scaleX": 1, "scaleY": 1, "fit": "contain"},
             "width": 1, "height": 1, "lockRotation": True, "disposition": disposition, "displayBars": 0,
             "sight": {"enabled": True, "range": 0, "visionMode": "basic"}, "ring": {"enabled": False}},
         "items": items, "effects": [], "ownership": {"default": 0}, "flags": {}, "_stats": STATS}
@@ -271,12 +271,12 @@ AMB = [("capa", "Asas de Cera — Capa", "capa-do-caso", 1792, 2688, ""),
        ("epilogo", "Epílogo", "epilogo", 2944, 1648, ""),
        ("contracapa", "Asas de Cera — Contracapa", "contracapa", 1792, 2688, "")]
 for i, (k, n, img, w, h, wx) in enumerate(AMB):
-    SCENES.append(scene(k, n, "amb", f"{MOD}/assets/cenas/{img}.webp", w, h, weather=wx, sort=i * 10))
+    SCENES.append(scene(k, n, "amb", f"{MOD}/assets/asas-de-cera/cenas/{img}.webp", w, h, weather=wx, sort=i * 10))
 
 # Terraço do Hotel Zênite (4096x2737) — exibição 1200 -> fator 3.4133
 s = 4096 / 1200
 k = "map-terraco"
-SCENES.append(scene(k, "Battlemap — Terraço do Hotel Zênite", "map", f"{MOD}/assets/mapas/terraco-do-hotel-zenite.webp", 4096, 2737,
+SCENES.append(scene(k, "Battlemap — Terraço do Hotel Zênite", "map", f"{MOD}/assets/asas-de-cera/mapas/terraco-do-hotel-zenite.webp", 4096, 2737,
     grid=150, battle=True, darkness=0.55, sort=10,
     walls=walls(k, s, [
         ("glass", [(40, 40), (970, 40)]), ("glass", [(40, 40), (40, 745)]), ("glass", [(40, 745), (1165, 745)]),
@@ -294,7 +294,7 @@ SCENES.append(scene(k, "Battlemap — Terraço do Hotel Zênite", "map", f"{MOD}
 # Clube Meia-Noite (2560x1440)
 s = 2560 / 1200
 k = "map-clube"
-SCENES.append(scene(k, "Battlemap — Clube Meia-Noite", "map", f"{MOD}/assets/mapas/clube-meia-noite.webp", 2560, 1440,
+SCENES.append(scene(k, "Battlemap — Clube Meia-Noite", "map", f"{MOD}/assets/asas-de-cera/mapas/clube-meia-noite.webp", 2560, 1440,
     grid=110, battle=True, darkness=0.7, sort=20,
     walls=walls(k, s, [
         ("wall", [(15, 15), (855, 15)]), ("wall", [(15, 15), (15, 590), (575, 590)]),
@@ -315,7 +315,7 @@ SCENES.append(scene(k, "Battlemap — Clube Meia-Noite", "map", f"{MOD}/assets/m
 
 # Oficina escondida de Dédalo (2560x1440)
 k = "map-oficina"
-SCENES.append(scene(k, "Battlemap — Oficina escondida de Dédalo", "map", f"{MOD}/assets/mapas/oficina-escondida-de-dedalo.webp", 2560, 1440,
+SCENES.append(scene(k, "Battlemap — Oficina escondida de Dédalo", "map", f"{MOD}/assets/asas-de-cera/mapas/oficina-escondida-de-dedalo.webp", 2560, 1440,
     grid=100, battle=True, darkness=0.65, sort=30,
     walls=walls(k, s, [
         ("wall", [(95, 70), (185, 70)]), ("glass", [(185, 70), (545, 70)]), ("wall", [(545, 70), (555, 70)]),
@@ -336,7 +336,7 @@ SCENES.append(scene(k, "Battlemap — Oficina escondida de Dédalo", "map", f"{M
 
 # A Barca no Duat (2560x1440)
 k = "map-barca"
-SCENES.append(scene(k, "Battlemap — A Barca no Duat", "map", f"{MOD}/assets/mapas/a-barca-no-duat.webp", 2560, 1440,
+SCENES.append(scene(k, "Battlemap — A Barca no Duat", "map", f"{MOD}/assets/asas-de-cera/mapas/a-barca-no-duat.webp", 2560, 1440,
     grid=100, battle=True, darkness=0.75, sort=40,
     walls=walls(k, s, [
         ("wall", [(115, 195), (380, 195), (380, 20), (810, 20), (810, 195), (1085, 195)]),
@@ -355,13 +355,13 @@ SCENES.append(scene(k, "Battlemap — A Barca no Duat", "map", f"{MOD}/assets/ma
             T(k, 6, "brutamontes", 680, 110, s, 100, True)]))
 
 # ------------------------------------------------------------------ journal
-md = open(os.path.join(ROOT, "src", "caso.md"), encoding="utf-8").read()
+md = open(os.path.join(ROOT, "src", "asas-de-cera", "caso.md"), encoding="utf-8").read()
 md = re.sub(r"^# Asas de Cera\n+\*Um caso.*?\*\n+.*?@\w+\n", "", md, flags=re.S)
 md = re.sub(r"\nDetalhes que inventei.*?\n", "\n", md)
 md = re.sub(r"\s*\*\*\\\[revisar\\\]\*\*", "", md)
 md = re.sub(r"\n### Como usar os prompts no Midjourney.*", "\n", md, flags=re.S)
 md = md.replace(" Todos os retratos usam o mesmo estilo e proporção 2:3, para virar token depois.", "")
-PORTRAITS = set(x[:-5] for x in os.listdir(os.path.join(ROOT, "assets", "retratos")))
+PORTRAITS = set(x[:-5] for x in os.listdir(os.path.join(ROOT, "assets", "asas-de-cera", "retratos")))
 SCENE_BY_IMG = {}
 for sc in SCENES:
     SCENE_BY_IMG.setdefault(os.path.basename(sc["background"]["src"])[:-5] + ("-map" if sc["tokenVision"] else ""), sc)
@@ -372,16 +372,16 @@ def fig(m):
     if s_ == "capa-do-caso":
         return "\n"
     if s_ in PORTRAITS:
-        return f'\n<div class="adc-portrait"><img src="{MOD}/assets/retratos/{s_}.webp"></div>\n'
+        return f'\n<div class="adc-portrait"><img src="{MOD}/assets/asas-de-cera/retratos/{s_}.webp"></div>\n'
     if "battlemap" in s_:
         base = s_.replace("-battlemap", "")
         sc = SCENE_BY_IMG.get(base + "-map")
         link = f' <p class="adc-cap">@UUID[Scene.{sc["_id"]}]{{Abrir a cena: {sc["name"]}}}</p>' if sc else ""
-        return f'\n<figure class="adc-fig adc-map"><img src="{MOD}/assets/mapas/{base}.webp"></figure>{link}\n'
+        return f'\n<figure class="adc-fig adc-map"><img src="{MOD}/assets/asas-de-cera/mapas/{base}.webp"></figure>{link}\n'
     base = s_.replace("-ambientacao", "")
     sc = SCENE_BY_IMG.get(base)
     link = f'<p class="adc-cap">@UUID[Scene.{sc["_id"]}]{{Abrir a cena: {sc["name"]}}}</p>' if sc else ""
-    return f'\n<figure class="adc-fig"><img src="{MOD}/assets/cenas/{base}.webp"></figure>{link}\n'
+    return f'\n<figure class="adc-fig"><img src="{MOD}/assets/asas-de-cera/cenas/{base}.webp"></figure>{link}\n'
 
 
 md = re.sub(r"> \*\*Arte — (.+?)\*\*\s*\n+```text\n.*?```", fig, md, flags=re.S)
@@ -431,10 +431,10 @@ for ch in chunks:
     body = ch[m.end():]
     hero = next((v for k_, v in OPEN.items() if title.startswith(k_)), None)
     if hero:
-        body = f'<figure class="adc-hero"><img src="{MOD}/assets/cenas/{hero}.webp"></figure>' + body
+        body = f'<figure class="adc-hero"><img src="{MOD}/assets/asas-de-cera/cenas/{hero}.webp"></figure>' + body
     pages.append((title, body))
     if title.startswith("Por trás das cortinas"):
-        pages.append(("O Iceberg do Caso", f'<figure class="adc-fig"><img src="{MOD}/assets/journal/iceberg.webp"></figure>'
+        pages.append(("O Iceberg do Caso", f'<figure class="adc-fig"><img src="{MOD}/assets/asas-de-cera/journal/iceberg.webp"></figure>'
                       '<p>Cada fio vermelho é uma saída: a Dica de um local aponta para o próximo. Quanto mais fundo, mais protegida está a verdade.</p>'))
 
 JID = gid("journal", "guia")
@@ -451,7 +451,7 @@ journal = {
 # ------------------------------------------------------------------ aventura
 ADV = gid("adventure", "asas-de-cera")
 adventure = {
-    "_id": ADV, "_key": f"!adventures!{ADV}", "name": "Asas de Cera", "img": f"{MOD}/assets/cenas/capa-do-caso.webp",
+    "_id": ADV, "_key": f"!adventures!{ADV}", "name": "Asas de Cera", "img": f"{MOD}/assets/asas-de-cera/cenas/capa-do-caso.webp",
     "caption": "Um caso de City of Mist em três sessões",
     "description": "<p>Um bilionário cai em chamas diante de cem testemunhas que não lembram de nada. Uma detetive teimosa vê no caso a ponta de uma rede que manda na Cidade. E, no alto da torre mais brilhante, um sol que não aceita ser ofuscado.</p>"
                    "<p>Importa: o Guia do MC completo, 14 cenas de ambientação, 4 battlemaps com paredes, portas e luzes, "

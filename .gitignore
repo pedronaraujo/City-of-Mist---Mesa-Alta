@@ -3,3 +3,4 @@ package-lock.json
 packs/**/LOCK
 packs/**/LOG*
 /*.zip
+__pycache__/

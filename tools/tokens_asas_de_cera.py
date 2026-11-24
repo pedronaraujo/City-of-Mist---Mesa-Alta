@@ -39,7 +39,7 @@ def emblem(label, glyph, faction, out, glyph_font=DJ, gsize=210):
     ring(im, faction).save(out, quality=90)
 
 if __name__ == '__main__':
-    R = 'assets/retratos/'; T = 'assets/tokens/'
+    R = 'assets/asas-de-cera/retratos/'; T = 'assets/asas-de-cera/tokens/'
     portrait(R + 'apia-nox.webp', 'noite', top=0.02, size=0.62, cx=0.64, out=T + 'apia-nox.webp')
     portrait(R + 'seth-desmond.webp', 'sol', top=0.13, size=0.72, out=T + 'seth-desmond.webp')
     for n, fac, top in [('ray-solaris', 'sol', .05), ('leona-sekh', 'sol', .05), ('capitao-teles', 'policia', .07),

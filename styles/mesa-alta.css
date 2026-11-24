@@ -1,0 +1,43 @@
+/* City of Mist — Mesa Alta: estilos dos Guias do MC (cores explícitas: legível nos temas claro e escuro) */
+:is(.asas-de-cera, .mesa-alta) { --adc-mag:#a8195f; --adc-teal:#0e6f78; --adc-gold:#c27f12; --adc-night:#16112a; --adc-paper:#efe8dc; --adc-ink:#1d1724;
+  background: var(--adc-paper); color: var(--adc-ink); padding: 14px 18px; border-radius: 4px; font-size: 15px; line-height: 1.45; }
+:is(.asas-de-cera, .mesa-alta) p, :is(.asas-de-cera, .mesa-alta) li, :is(.asas-de-cera, .mesa-alta) td { color: var(--adc-ink); }
+:is(.asas-de-cera, .mesa-alta) h3 { color: var(--adc-teal); border-bottom: 1px solid #b9aec6; text-transform: uppercase; letter-spacing: 1px; clear: both; }
+:is(.asas-de-cera, .mesa-alta) h4 { color: var(--adc-night); border-left: 5px solid var(--adc-gold); padding-left: 8px; border-bottom: none; clear: both; }
+:is(.asas-de-cera, .mesa-alta) strong { color: inherit; }
+:is(.asas-de-cera, .mesa-alta) blockquote { margin: 10px 0; padding: 8px 12px; border-radius: 3px; border: none; }
+:is(.asas-de-cera, .mesa-alta) blockquote p { margin: 0; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-aloud { background: var(--adc-night); border-left: 4px solid #3fd0dc; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-aloud p { color: #f1ebf7; font-style: italic; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-aloud strong { color: #3fd0dc; font-style: normal; text-transform: uppercase; letter-spacing: 1px; font-size: 12px; display: block; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-rule { background: #e3ecec; border-left: 4px solid var(--adc-teal); }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-rule strong { color: var(--adc-teal); }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-tip { background: #f3e3ea; border-left: 4px solid var(--adc-mag); }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-tip strong { color: var(--adc-mag); }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-summary { background: transparent; border: 1.5px dashed var(--adc-gold); }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-summary strong { color: var(--adc-gold); }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-box { background: #e8e1d4; }
+:is(.asas-de-cera, .mesa-alta) .adc-falas { margin: 8px 0 14px; padding: 6px 12px; border-top: 1px solid #b9aec6; border-bottom: 1px solid #b9aec6; }
+:is(.asas-de-cera, .mesa-alta) .adc-falas-h { color: var(--adc-mag); font-weight: bold; text-transform: uppercase; letter-spacing: 1px; font-size: 12px; margin: 0 0 4px; }
+:is(.asas-de-cera, .mesa-alta) .adc-falas ul { list-style: none; padding-left: 0; margin: 0; }
+:is(.asas-de-cera, .mesa-alta) .adc-falas li { font-style: italic; padding-left: 18px; position: relative; }
+:is(.asas-de-cera, .mesa-alta) .adc-falas li::before { content: "“"; position: absolute; left: 0; top: -4px; font-size: 24px; color: var(--adc-gold); font-style: normal; }
+:is(.asas-de-cera, .mesa-alta) .adc-falas li strong { font-style: normal; color: var(--adc-night); }
+:is(.asas-de-cera, .mesa-alta) table { border-collapse: collapse; width: 100%; background: transparent; border: none; }
+:is(.asas-de-cera, .mesa-alta) th { background: var(--adc-night); color: #ffffff; text-align: left; padding: 5px 6px; text-transform: uppercase; font-size: 12px; }
+:is(.asas-de-cera, .mesa-alta) td { border-bottom: 1px solid #cfc5b6; padding: 5px 6px; vertical-align: top; }
+:is(.asas-de-cera, .mesa-alta) tr:nth-child(even) td { background: rgba(255,255,255,.4); }
+:is(.asas-de-cera, .mesa-alta) figure { margin: 10px 0; }
+:is(.asas-de-cera, .mesa-alta) figure img { width: 100%; border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+:is(.asas-de-cera, .mesa-alta) .adc-hero img { border: none; }
+:is(.asas-de-cera, .mesa-alta) .adc-map img { border-color: var(--adc-night); }
+:is(.asas-de-cera, .mesa-alta) .adc-portrait { float: right; width: 34%; margin: 0 0 10px 14px; }
+:is(.asas-de-cera, .mesa-alta) .adc-portrait img { width: 100%; border: 3px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,.35); transform: rotate(1.2deg); }
+:is(.asas-de-cera, .mesa-alta) .adc-cap { font-size: 13px; text-align: right; margin-top: -4px; }
+:is(.asas-de-cera, .mesa-alta) a.content-link { background: var(--adc-night); color: #ffffff; border-color: var(--adc-night); }
+:is(.asas-de-cera, .mesa-alta) a.content-link i { color: #3fd0dc; }
+/* Reflexos no Espelho — post-its de Dicas */
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-postit { background: #f6e27a; border-left: none; box-shadow: 2px 3px 6px rgba(0,0,0,.3); transform: rotate(-.6deg); padding: 10px 14px; margin: 14px 4px; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-postit p, :is(.asas-de-cera, .mesa-alta) blockquote.adc-postit li { color: #2b2618; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-postit .adc-postit-h { color: #8a2c6b; font-weight: bold; font-size: 18px; margin-bottom: 4px; }
+:is(.asas-de-cera, .mesa-alta) blockquote.adc-postit ul { margin: 0; padding-left: 18px; }

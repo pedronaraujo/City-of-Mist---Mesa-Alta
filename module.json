@@ -1,8 +1,8 @@
 {
-  "id": "asas-de-cera",
-  "title": "Asas de Cera — um caso de City of Mist",
-  "description": "Caso em três sessões para City of Mist: Guia do MC completo em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados.",
-  "version": "1.0.0",
+  "id": "mesa-alta",
+  "title": "City of Mist — Mesa Alta",
+  "description": "Várias aventuras de City of Mist ao redor da lore da Mesa Alta, o clube secreto de deuses que manda na Cidade. Cada caso vem num compêndio próprio e é importado separadamente, com Guia do MC em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados. Inclui: Asas de Cera e Reflexos no Espelho.",
+  "version": "2.0.0",
   "authors": [
     {
       "name": "Pedro Tostes",
@@ -25,7 +25,7 @@
     ]
   },
   "styles": [
-    "styles/asas-de-cera.css"
+    "styles/mesa-alta.css"
   ],
   "packs": [
     {
@@ -39,21 +39,34 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "name": "reflexos-no-espelho",
+      "label": "Reflexos no Espelho (Aventura)",
+      "path": "packs/reflexos-no-espelho",
+      "type": "Adventure",
+      "system": "city-of-mist",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
     {
-      "name": "Asas de Cera",
+      "name": "Mesa Alta",
       "color": "#a8195f",
       "packs": [
-        "asas-de-cera"
+        "asas-de-cera",
+        "reflexos-no-espelho"
       ],
       "folders": []
     }
   ],
   "languages": [],
-  "url": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera",
-  "manifest": "https://raw.githubusercontent.com/pedronaraujo/City-of-Mist---Asas-de-Cera/main/module.json",
-  "download": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera/raw/main/dist/asas-de-cera.zip",
-  "readme": "https://github.com/pedronaraujo/City-of-Mist---Asas-de-Cera/blob/main/README.md"
+  "url": "https://github.com/pedronaraujo/City-of-Mist---Mesa-Alta",
+  "manifest": "https://raw.githubusercontent.com/pedronaraujo/City-of-Mist---Mesa-Alta/main/module.json",
+  "download": "https://github.com/pedronaraujo/City-of-Mist---Mesa-Alta/raw/main/dist/mesa-alta.zip",
+  "readme": "https://github.com/pedronaraujo/City-of-Mist---Mesa-Alta/blob/main/README.md"
 }
