@@ -29,6 +29,14 @@ Chove há 35 dias. O colunista que ouvia a cidade inteira morreu afogado na pró
 - 7 Perigos com espectros, travas e movimentos, 7 NPCs e tokens já posicionados (adversários ocultos).
 - Adendo para PJs Portais de deuses da chuva e apêndice para ligar o caso à Mesa Alta numa campanha.
 
+### A Casa Sempre Ganha
+
+No último minuto, o artilheiro do Pactolo F.C. arma o chute que salvaria o clube, e cai morto em campo. Ninguém tocou nele. O coração estava perfeito. Seguindo esse rastro, a galera descobre um padrão: mortes que chegam sempre na hora exata e um apostador elegante que acerta tudo e nunca sorri.
+
+- Guia do MC em journal (13 páginas, com o iceberg do caso), 25 cenas de ambientação e 2 battlemaps com paredes, portas e luzes (a cobertura de Victor e o Tirso).
+- 8 Perigos com espectros, travas e movimentos, 6 NPCs e tokens já posicionados (adversários ocultos).
+- Apêndice para ligar o caso à Mesa Alta e aos outros três casos numa campanha.
+
 ## Instalação
 
 No Foundry: *Add-on Modules → Install Module* e cole o manifesto:
@@ -52,6 +60,9 @@ python3 tools/build_reflexos_no_espelho.py        # src/packs/reflexos-no-espelh
 python3 tools/prep_som_da_chuva.py "<pasta Imagens>"  # artes de O Som da Chuva -> assets/
 python3 tools/tokens_som_da_chuva.py              # tokens redondos (O Som da Chuva)
 python3 tools/build_o_som_da_chuva.py             # src/packs/o-som-da-chuva a partir de src/o-som-da-chuva/caso.md
+python3 tools/prep_casa_sempre_ganha.py "<pasta com as artes>"  # artes de A Casa Sempre Ganha -> assets/
+python3 tools/tokens_casa_sempre_ganha.py         # tokens redondos (A Casa Sempre Ganha)
+python3 tools/build_a_casa_sempre_ganha.py        # src/packs/a-casa-sempre-ganha a partir de src/a-casa-sempre-ganha/caso.md
 python3 tools/preview.py reflexos-no-espelho      # confere paredes, luzes e tokens dos battlemaps
 node tools/pack.mjs                               # compila os compêndios LevelDB em packs/
 # depois gere dist/mesa-alta.zip com module.json, README.md, styles, assets e packs

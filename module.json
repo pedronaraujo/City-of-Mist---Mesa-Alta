@@ -1,8 +1,8 @@
 {
   "id": "mesa-alta",
   "title": "City of Mist — Mesa Alta",
-  "description": "Várias aventuras de City of Mist ao redor da lore da Mesa Alta, o clube secreto de deuses que manda na Cidade. Cada caso vem num compêndio próprio e é importado separadamente, com Guia do MC em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados. Inclui: Asas de Cera, Reflexos no Espelho e O Som da Chuva.",
-  "version": "2.1.1",
+  "description": "Várias aventuras de City of Mist ao redor da lore da Mesa Alta, o clube secreto de deuses que manda na Cidade. Cada caso vem num compêndio próprio e é importado separadamente, com Guia do MC em journal, cenas de ambientação, battlemaps com paredes e luzes, Perigos com ficha e tokens já posicionados. Inclui: Asas de Cera, Reflexos no Espelho, O Som da Chuva e A Casa Sempre Ganha.",
+  "version": "2.2.0",
   "authors": [
     {
       "name": "Pedro Tostes",
@@ -66,6 +66,19 @@
       },
       "flags": {},
       "banner": "modules/mesa-alta/assets/o-som-da-chuva/banner.webp"
+    },
+    {
+      "name": "a-casa-sempre-ganha",
+      "label": "A Casa Sempre Ganha (Aventura)",
+      "path": "packs/a-casa-sempre-ganha",
+      "type": "Adventure",
+      "system": "city-of-mist",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "banner": "modules/mesa-alta/assets/a-casa-sempre-ganha/banner.webp"
     }
   ],
   "packFolders": [
@@ -75,7 +88,8 @@
       "packs": [
         "asas-de-cera",
         "reflexos-no-espelho",
-        "o-som-da-chuva"
+        "o-som-da-chuva",
+        "a-casa-sempre-ganha"
       ],
       "folders": []
     }
